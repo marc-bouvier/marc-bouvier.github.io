@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi! I am Marc, software developer into Sowtware Craftsmanship.
+Hi! I am Marc, software developer into Software Craftsmanship.
 
 ### Contact me
 
