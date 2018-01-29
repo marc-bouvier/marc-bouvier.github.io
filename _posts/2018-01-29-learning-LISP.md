@@ -4,8 +4,6 @@ title: "Resources for learning LISP and Clojure"
 date: 2018-01-29
 ---
 
-# Resources for learning LISP and Clojure
-
 ## Clojure
 
 ## LISP
