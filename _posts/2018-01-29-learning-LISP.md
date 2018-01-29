@@ -6,9 +6,9 @@ date: 2018-01-29
 
 ## Clojure
 
-- [Official site](https://clojure.org/)
+- [Clojure - Official site](https://clojure.org/)
 - [Effective Programs - 10 Years of Clojure - Rich Hickey](https://www.youtube.com/watch?v=2V1FtfBDsLU)
-- [[FR]À la découverte de Clojure (Florian Boulay)](https://www.youtube.com/watch?v=z_KWmzs-j70)
+- [[FR] À la découverte de Clojure (Florian Boulay)](https://www.youtube.com/watch?v=z_KWmzs-j70)
 
 ## LISP
 
