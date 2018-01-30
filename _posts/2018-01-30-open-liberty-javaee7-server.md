@@ -5,7 +5,7 @@ date: 2018-01-30
 tags: javaEE microservice cloud
 ---
 
-Open liberty is an open source IBM JavaEE server. It promises to allow building Cloud native apps & mirco-services.
+[Open liberty](https://openliberty.io) is an open source IBM JavaEE server. It promises to allow building Cloud native apps & mirco-services.
 
 Flexible JavaEE7 Microprofile
 https://openliberty.io/about/
