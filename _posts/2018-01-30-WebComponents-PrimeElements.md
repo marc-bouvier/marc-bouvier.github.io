@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2018-01-30
-title: ""
+title: "The rise of WebComponents"
 tags: "WebComponents" 
 published: false
 ---
