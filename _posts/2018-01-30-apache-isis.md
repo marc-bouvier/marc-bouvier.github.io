@@ -11,5 +11,7 @@ Skeptical about this because DDD experts such as Cyrille Martraire often warn th
 
 In my opinion, domain objects should not be coupled with infrastructure (in the meaning of hexagonal architecture).
 
+Isis is supposed to take care of the gui for you and let you concentrate on business logic. It seems appropriate for fast prototyping. But is it suitable for production? I may use it for personnal project to see if it can be useful.
+
 Let's take a closer look at Isis.
 
