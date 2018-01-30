@@ -4,7 +4,7 @@ title: "Resources for learning LISP and Clojure"
 date: 2018-01-29
 tags: Clojure language LISP functionnal immutability learning
 ---
-Here are some resurces to understand and learn Clojure.
+Here are some resurces to understand and learn LISP & Clojure.
 
 ## Clojure
 
