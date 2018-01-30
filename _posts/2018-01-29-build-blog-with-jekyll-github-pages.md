@@ -2,7 +2,7 @@
 layout: post
 title: "Building a blog with Jekyll and GitHub Pages"
 date: 2018-01-29
-tags Jekyll learning blog markdown
+tags: Jekyll learning blog markdown
 ---
 
 Some resources to help buildong a blog like this one with Jekyll and GitHub pages.
