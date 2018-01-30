@@ -11,6 +11,7 @@ Here are some resurces to understand and learn LISP & Clojure.
 - [Clojure - Official site](https://clojure.org/)
 - [Effective Programs - 10 Years of Clojure - Rich Hickey](https://www.youtube.com/watch?v=2V1FtfBDsLU)
 - [[FR] À la découverte de Clojure (Florian Boulay)](https://www.youtube.com/watch?v=z_KWmzs-j70)
+- [[FR] Le fonctionnel par la pratique live coding d’un jeu web (Quentin Duval - Guillaume Eveillard)](https://www.youtube.com/watch?v=qXMFq3YOHko)
 - [JUXT clojure radar](http://juxt.pro/radar.html)
 - [Clojure toolbox](https://www.clojure-toolbox.com/)
 
