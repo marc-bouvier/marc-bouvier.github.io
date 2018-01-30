@@ -13,5 +13,7 @@ In my opinion, domain objects should not be coupled with infrastructure (in the 
 
 Isis is supposed to take care of the gui for you and let you concentrate on business logic. It seems appropriate for fast prototyping. But is it suitable for production? I may use it for personnal project to see if it can be useful.
 
+Also, it may be a good starting point for BDD and DDD trainings.
+
 Let's take a closer look at Isis.
 
