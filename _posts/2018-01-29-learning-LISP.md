@@ -3,6 +3,7 @@ layout: post
 title: "Resources for learning LISP and Clojure"
 date: 2018-01-29
 ---
+Here are some resurces to understand and learn Clojure.
 
 ## Clojure
 
