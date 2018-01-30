@@ -12,15 +12,17 @@ Here are some resurces to understand and learn Clojure.
 - [Effective Programs - 10 Years of Clojure - Rich Hickey](https://www.youtube.com/watch?v=2V1FtfBDsLU)
 - [[FR] À la découverte de Clojure (Florian Boulay)](https://www.youtube.com/watch?v=z_KWmzs-j70)
 - [JUXT clojure radar](http://juxt.pro/radar.html)
-- [Clojure toolbox](https://www.clojure-toolbox.com/)
+- [Clojure toolbox](https://www.clojure-toolbox.com/)*
 
 ## LISP
 
-MIT
+- MIT : 6.001 [Structure and Interpretation of Computer Programs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)
+- [Paul Graham - ANSI Common Lisp chap 1.](https://sep.yimg.com/ty/cdn/paulgraham/acl1.txt)
+- [Paul Graham - ANSI Common Lisp chap 2.](https://sep.yimg.com/ty/cdn/paulgraham/acl2.txt)
 
-- 6.001 [Structure and Interpretation of Computer Programs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)
+## Code Katas
 
-Paul Graham
-
-- [ANSI Common Lisp chap 1.](https://sep.yimg.com/ty/cdn/paulgraham/acl1.txt)
-- [ANSI Common Lisp chap 2.](https://sep.yimg.com/ty/cdn/paulgraham/acl2.txt)
+- [CodeWars](https://www.codewars.com/)
+- [CodinGame](https://www.codingame.com/training)
+- [exercism.io : Common LISP](http://exercism.io/languages/common-lisp/about)
+- [exercism.io : Clojure](http://exercism.io/languages/clojure/about)
