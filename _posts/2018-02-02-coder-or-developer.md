@@ -6,6 +6,17 @@ tags:
 published: false
 ---
 
+## Are you a coder or a developer?
+
+https://dzone.com/articles/are-you-a-coder-or-a-developer
+
+This article has very interesting reactions in the comment section. And is worth analysing.
+
+The main criticism in my humble opinion is that the ideas of this article are exposed as a general truth (I think the author uses
+this style to suscite reactions and so his ideas are chgallenged).
+
+## Stop chatting, start coding
+
 TODO : follow and read the links 
 
 In [Stop chatting, start coding](http://www.yegor256.com/2014/10/07/stop-chatting-start-coding.html), 
@@ -18,7 +29,7 @@ as an employee working in collocated team.
 
 Let's explore the ideas the author exposes.
 
-## Pay for publicly available work
+### Pay for publicly available work
 
 > The first principle of eXtremely Distributed Software Development (XDSD) states that "everyone gets paid for verified deliverables." 
 > This literally means that, in order to get paid, every programmer has to write the code, commit it to the repository, pass a code 
