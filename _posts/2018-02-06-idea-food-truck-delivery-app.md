@@ -27,10 +27,15 @@ That way we can also limit number of orders by person.
 ## Queuing engine
 
 Queue orders and localization.
+We must know at least where will the goods be delivered. I will be attached to the ID that will be given to the student.
+We may have to feed the data store with localisation at the start of the event.
 
 
 ## Payment
 
-No payment : it will be open-bar. But we must track how many has been delivered
+No payment : it will be open-bar. But we must track how many has been delivered.
 
-## 
+## Non functional requirements
+
+PWA : Progressive Web App. Should be accessible as an app everywhere and easy to install.
+
