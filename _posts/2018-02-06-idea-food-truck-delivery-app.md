@@ -46,3 +46,16 @@ At least must be available as a web site accessible from wifi of the event.
 
 Might be nice if it is on android and apple store
 
+# My stack
+
+- hosted on a raspberry pi 3
+- socket.io for bidirectional communication
+- nodejs as frontend api
+- emberjs for frontend
+- nodejs server
+- mongodb for sharing state in backend
+
+- try jhipser or yeoman generator?
+https://spring.io/guides/gs/messaging-stomp-websocket/
+
+
