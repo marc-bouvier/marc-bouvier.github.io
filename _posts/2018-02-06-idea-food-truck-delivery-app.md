@@ -60,5 +60,6 @@ Might be nice if it is on android and apple store
 - Event sourcing?
 - DDD?
 - SpringBoot 2 + Spring WebFlux (reactive stream) : https://www.infoq.com/presentations/spring-kotlin-boot
+- https://start.spring.io/
 
 
