@@ -59,5 +59,6 @@ Might be nice if it is on android and apple store
 - CQRS?
 - Event sourcing?
 - DDD?
+- SpringBoot 2 + Spring WebFlux (reactive stream)
 
 
