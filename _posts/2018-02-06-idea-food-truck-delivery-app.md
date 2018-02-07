@@ -54,8 +54,10 @@ Might be nice if it is on android and apple store
 - emberjs for frontend
 - nodejs server
 - mongodb for sharing state in backend
-
-- try jhipser or yeoman generator?
-https://spring.io/guides/gs/messaging-stomp-websocket/
+- try jhipster or yeoman generator?
+- https://spring.io/guides/gs/messaging-stomp-websocket/
+- CQRS?
+- Event sourcing?
+- DDD?
 
 
