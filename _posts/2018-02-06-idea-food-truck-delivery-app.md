@@ -62,4 +62,6 @@ Might be nice if it is on android and apple store
 - SpringBoot 2 + Spring WebFlux (reactive stream) : https://www.infoq.com/presentations/spring-kotlin-boot
 - https://start.spring.io/
 
+### ASP dotnet core MVC5
+- http://rdonfack.developpez.com/tutoriels/dotnet/nouveautes-aspnet-core-2/#LVII-D
 
