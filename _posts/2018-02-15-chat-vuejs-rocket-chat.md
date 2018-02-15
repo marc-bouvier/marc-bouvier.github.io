@@ -14,3 +14,6 @@ Add [rocket.chat.realtime.api.rxjs](https://github.com/inf3cti0n95/Rocket.Chat.R
 
 `npm install --save rocket.chat.realtime.api.rxjs`
 
+``
+test
+`` 
