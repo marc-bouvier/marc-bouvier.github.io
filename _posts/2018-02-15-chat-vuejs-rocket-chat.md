@@ -8,7 +8,7 @@ Simple chat application with Rocket.Chat and VueJs. [See live version.](https://
 
 First, create an application vueJs with vue cli.
 
-   vue init webpack
+    vue init webpack
 
 
 
