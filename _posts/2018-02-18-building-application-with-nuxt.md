@@ -34,6 +34,8 @@ You can run it using
 yarn run dev
 ```
 
+Your site is available at http://localhost:3000
+
 ## bootstrap-vue
 
 ```
@@ -56,7 +58,17 @@ yarn add node-sass sass-loader --dev
 ```
 
 Create a sass file `/assets/css/main.scss`
+```
+.logo{
+    background-image: url(/logo.png);
+    background-color: #ffffff80;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-blend-mode: lighten;
+}
+```
 
+Add a logo.png file in `/static` it will be automatically be binded to http://localhost:3000/logo.png
 Configure the page to be loaded globally in the css section of `nuxt.config.js`.
 
 ```javascript
@@ -65,6 +77,18 @@ Configure the page to be loaded globally in the css section of `nuxt.config.js`.
   ]
 ```
 
+## Customize default layout
+
+Open `/layouts/default.vue` and add `class="logo"` to the main div.
+```html
+<template>
+  <div class="logo">
+    <nuxt/>
+  </div>
+</template>
+```
+
+This style will be applied to every pages.
 
                                                                         
 
