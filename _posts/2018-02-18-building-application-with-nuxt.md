@@ -104,7 +104,7 @@ Modify `nuxt.config.js`
   }
 ```
 
-## Add vue-i18n
+## Add vue-i18n plugin
 
 ```
 yarn add vue-i18n
@@ -127,11 +127,34 @@ export default ({ app }, inject) => {
 }
 ```
 
+Modify `nuxt.config.js` 
+
 ```javascript
   build: {
     vendor: ['vue-i18n']
   },
   plugins: ['~/plugins/i18n.js']
 ```
-                                                                        
+
+Create the file `locales/en.json`
+It may look like this.
+
+```json
+{
+  "links": {
+    "home": "Home",
+    "about": "About",
+    "english": "English version",
+    "french": "French version"
+  },
+  "home": {
+    "title": "Welcome",
+    "introduction": "This is an introduction in English."
+  },
+  "about": {
+    "title": "About",
+    "introduction": "This page is made to give you more informations."
+  }
+}
+```
 
