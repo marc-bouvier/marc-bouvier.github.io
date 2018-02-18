@@ -104,5 +104,34 @@ Modify `nuxt.config.js`
   }
 ```
 
+## Add vue-i18n
+
+```
+yarn add vue-i18n
+```
+
+Create a the file `/plugins/i18n.js`
+
+```javascript
+import Vue from 'vue'
+import VueI18n from 'vue-i18n'
+
+Vue.use(VueI18n)
+
+export default ({ app }, inject) => {
+    // Set `i18n` instance on `app`
+    // This way we can use it in middleware and pages `asyncData`/`fetch`
+    app.i18n = new VueI18n({
+        /* `VueI18n` options... */
+    })
+}
+```
+
+```javascript
+  build: {
+    vendor: ['vue-i18n']
+  },
+  plugins: ['~/plugins/i18n.js']
+```
                                                                         
 
