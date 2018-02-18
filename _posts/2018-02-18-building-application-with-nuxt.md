@@ -34,21 +34,36 @@ You can run it using
 yarn run dev
 ```
 
-## Add plugins
-
-### bootstrap-vue
+## bootstrap-vue
 
 ```
 yarn add bootstrap-vue
 ```
 
-Add bootstrap-vue in the module section of `nuxt.config.js`
-```
+Add bootstrap-vue in the module section of `nuxt.config.js`.
+```javascript
   modules: [
     'bootstrap-vue/nuxt'
     ]
 ```
 
+## CSS style
+
+Install sass support
+
+```
+yarn add node-sass sass-loader --dev
+```
+
+Create a sass file `/assets/css/main.scss`
+
+Configure the page to be loaded globally in the css section of `nuxt.config.js`.
+
+```javascript
+  css: [
+    '@/assets/css/main.scss'
+  ]
+```
 
 
                                                                         
