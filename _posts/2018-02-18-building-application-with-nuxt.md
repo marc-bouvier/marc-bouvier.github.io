@@ -53,12 +53,12 @@ Add bootstrap-vue in the module section of `nuxt.config.js`.
 
 Install sass support
 
-```
+```bash
 yarn add node-sass sass-loader --dev
 ```
 
 Create a sass file `/assets/css/main.scss`
-```
+```css
 .logo{
     background-image: url(/logo.png);
     background-color: #ffffff80;
