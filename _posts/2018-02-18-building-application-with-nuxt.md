@@ -90,5 +90,19 @@ Open `/layouts/default.vue` and add `class="logo"` to the main div.
 
 This style will be applied to every pages.
 
+## Add axios
+Add axios dependency
+```bash
+yarn add axios
+```
+
+Modify `nuxt.config.js` 
+
+```javascript
+  build: {
+    vendor: ['axios']
+  }
+```
+
                                                                         
 
