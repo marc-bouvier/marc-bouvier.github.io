@@ -1,4 +1,4 @@
-
+/* quick fixed highlight */
 .highlight {
   background-color: #efefef;
   padding: 7px 7px 7px 10px;
@@ -8,8 +8,9 @@
   box-shadow: 3px 3px rgba(0,0,0,0.1);
   margin: 20px 0 20px 0;
   overflow: auto;
-  max-height: 400px;
+  max-height: 420px;
 }
+/* quick fixed highlight */
 pre.highlight {
   background-color: initial;
   padding: initial;
