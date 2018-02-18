@@ -28,6 +28,28 @@ Build the project
 yarn
 ```
 
+You can run it using
+
+```bash
+yarn run dev
+```
+
+## Add plugins
+
+### bootstrap-vue
+
+```
+yarn add bootstrap-vue
+```
+
+Add bootstrap-vue in the module section of `nuxt.config.js`
+```
+  modules: [
+    'bootstrap-vue/nuxt'
+    ]
+```
+
+
 
                                                                         
 
