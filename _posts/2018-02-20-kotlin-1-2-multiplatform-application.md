@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Multiplatform applications with Kotlin"
+title: "Multiplatform applications with Kotlin 1.2"
 date: 2018-02-20
 tags: kotlin multiplatform android ios jvm javascript
 ---
