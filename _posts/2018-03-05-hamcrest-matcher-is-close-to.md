@@ -16,7 +16,7 @@ Usage
 
 The Matcher.
 ```
-package com.adis.g2a.felix.util;
+package fr.bouvier.marc.test.util;
 
 import org.hamcrest.BaseMatcher;
 import org.hamcrest.Description;
