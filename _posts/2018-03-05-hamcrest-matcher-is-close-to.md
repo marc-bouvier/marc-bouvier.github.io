@@ -9,13 +9,15 @@ This Hamcrest matcher allows to know if a LocalDateTime is close (with parametra
 Usage
 ```
    SomeObject output = new SomeObject();
-   assertThat(output.getDateCreation(), isCloseTo(LocalDateTime.now(), 1));
+   assertThat(output.getDateCreation(), isCloseTo(LocalDateTime.now(), 2));
+   //equivalent to
+   assertThat(output.getDateCreation(), isCloseToNow());
 ```
 
+The Matcher.
 ```
 package com.adis.g2a.felix.util;
 
-import com.adis.g2a.felix.mapping.felix.event.EvenementChatDtoMapperTest;
 import org.hamcrest.BaseMatcher;
 import org.hamcrest.Description;
 import org.hamcrest.Factory;
@@ -58,6 +60,11 @@ public class IsCloseTo<T> extends BaseMatcher<T> {
     @Factory
     public static <T> Matcher<T> isCloseTo(T operand, int toleranceInMin) {
         return new IsCloseTo<T>(operand, toleranceInMin);
+    }
+
+    @Factory
+    public static <T> Matcher<T> isCloseToNow() {
+        return new IsCloseTo<T>(LocalDateTime.now());
     }
 
     @Override
