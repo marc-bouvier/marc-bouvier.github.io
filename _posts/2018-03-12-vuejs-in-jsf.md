@@ -5,6 +5,8 @@ date: 2018-03-12
 tags: JSF javascript vueJs Spring Rest
 ---
 
+In this post we will how to integrate some vueJs application using JSF and Spring Rest Controller as backend.
+
 ## Add Spring Rest API support
 
 Add Spring MVC into dependencies.
