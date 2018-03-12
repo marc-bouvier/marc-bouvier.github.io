@@ -22,4 +22,4 @@ The author then explains why and how Redux tries to solve this problem and what 
 
 > The purpose of any library is to make something more complicated seem simple through abstraction.
 
-He states that Redux needs to be redesigned and he highlights some areas that can be enhanced
+He states that Redux needs to be redesigned and he highlights some areas that can be enhanced. After showing them, he propose a wrapper of Redux : Rematch that allows to simplfy the use of Redux API.
