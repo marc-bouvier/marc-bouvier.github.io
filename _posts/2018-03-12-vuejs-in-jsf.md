@@ -75,7 +75,7 @@ public class HelloRestApi {
 
 ## Create xhtml page with vuejs application calling rest API
 
-In order to support to v-bind "v-bind:stuff" or "v-on" you can add  `xmlns:v-bind="http://xmlns.jcp.org/jsf/passthrough"` and
+In order to support to v-bind "v-bind" or "v-on" you can add  `xmlns:v-bind="http://xmlns.jcp.org/jsf/passthrough"` and
 `xmlns:v-on="http://xmlns.jcp.org/jsf/passthrough"`.
 
 ```
