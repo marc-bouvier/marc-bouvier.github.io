@@ -8,7 +8,7 @@ published: false
 
 ## Context
 
-In an application like [the chat we made previously](https://marc-bouvier.github.io/2018/02/15/chat-vuejs-rocket-chat/), 
+In an application like [the chat we made previously][chat], 
 I need to be able to resume websocket connection when it is closed unexpectedly. This can happen when the device hibarnate, when connectivity is lost (3g / 4G...). I also need to subscribe back to channels
 and notification I was previously subscribed to.
 
@@ -44,4 +44,5 @@ regular interval of time or by some event.
 
 ## Resources
 
-* 
+* 1. [chat]: https://marc-bouvier.github.io/2018/02/15/chat-vuejs-rocket-chat/
+* 2. [Websocket client implementation for auto reconnect](https://github.com/websockets/ws/wiki/Websocket-client-implementation-for-auto-reconnect)
