@@ -9,7 +9,7 @@ published: false
 ## Context
 
 In an application like [the chat we made previously](https://marc-bouvier.github.io/2018/02/15/chat-vuejs-rocket-chat/), 
-I need to be able to resume websocket connection when it is closed unexpectedly. I also need to subscribe back to channels
+I need to be able to resume websocket connection when it is closed unexpectedly. This can happen when the device hibarnate, when connectivity is lost (3g / 4G...). I also need to subscribe back to channels
 and notification I was previously subscribed to.
 
 ## Problem
@@ -36,6 +36,9 @@ So I identified types of events
 * subscribedToNotifyRoomTyping: listening to /typing event from a specific room
 
 ### Replay events sequentially
+
+We want to create a "replay engine" to be triggered when the connection from the websocket is lost ([error/close ws events](https://github.com/websockets/ws/wiki/Websocket-client-implementation-for-auto-reconnect)) . We may want to trigger in 
+regular interval of time or by some event.
 
 ### 
 
