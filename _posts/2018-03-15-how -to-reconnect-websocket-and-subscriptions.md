@@ -18,8 +18,6 @@ When a device goes offline of sleeping, the websocket connection can be lost and
 
 ## A way to do it
 
-### Wrap events
-
 ### Store significant events of websocket state
 
 We need to store some specific events when we try to reconstruct websocket connection. We don't want to replay all events 
@@ -35,9 +33,46 @@ So I identified types of events
 * subscribedToRoomMessages : listening messages from a specific room
 * subscribedToNotifyRoomTyping: listening to /typing event from a specific room
 
-### Replay events sequentially
+### Wrap events
+
+The reconnection engine will store events than need to be replayed in case of deconnection of the websocket. We will add a level of
+abstraction so that the engin only deals with event playing logic and not websocket technical stuff.
+
+From the technical side, we will listen to events from the engine and do the appropriate behaviour when they occur.
+
+ie. when receiving a `connect` event we will run something like `websocket.connect()`
+
+### Play events
+
+When we want to play and event we add it to a play queue. When an event is in the play queue, it is played. Meaning that the actual
+behaviour is executed (ie. message sent to websocket).
+
+#### Success
+
+If the callback of the websocket event indicates a succes, the event is unqueued from the play queue and is added/updated in the original event queue.
+
+#### Failure/timeout
+
+If there is a failure or timeout in callback, the event is replayed until it is a succes or until a try limit is reached.
+If the limit is reached and error is diplayed to the user indicating that there is a problem.
+
+## Reconnect
+
+### trigering reconnection
 
 We want to create a "replay engine" to be triggered when the connection from the websocket is lost ([error/close ws events][ws-reco-impl]). We may want to trigger in regular interval of time or by some event.
+
+### Replay events sequentially
+
+Some event have prerequisites (ie. subcribe to room requires authentication to API and authentication required connection). In order to
+deal with it in a simple way we replay events sequentially. When an event is sucessfully played, the next is played until there is no more events to play in queue.
+
+Replayed event should be flagged as `replay` so they are not added to the original sequence of events to play in case of deconnection. 
+Events in this original sequence should only be added when a new significant event is played (sub to a new room for instance)
+
+### Retrying events
+
+
 
 
 [chat]: https://marc-bouvier.github.io/2018/02/15/chat-vuejs-rocket-chat/
