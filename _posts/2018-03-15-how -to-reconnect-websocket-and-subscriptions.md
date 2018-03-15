@@ -37,12 +37,8 @@ So I identified types of events
 
 ### Replay events sequentially
 
-We want to create a "replay engine" to be triggered when the connection from the websocket is lost ([error/close ws events](https://github.com/websockets/ws/wiki/Websocket-client-implementation-for-auto-reconnect)) . We may want to trigger in 
-regular interval of time or by some event.
+We want to create a "replay engine" to be triggered when the connection from the websocket is lost ([error/close ws events][ws-reco-impl]). We may want to trigger in regular interval of time or by some event.
 
-### 
 
-## Resources
-
-* 1. [chat]: https://marc-bouvier.github.io/2018/02/15/chat-vuejs-rocket-chat/
-* 2. [Websocket client implementation for auto reconnect](https://github.com/websockets/ws/wiki/Websocket-client-implementation-for-auto-reconnect)
+[chat]: https://marc-bouvier.github.io/2018/02/15/chat-vuejs-rocket-chat/
+[ws-reco-impl]: https://github.com/websockets/ws/wiki/Websocket-client-implementation-for-auto-reconnect
