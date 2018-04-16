@@ -10,8 +10,9 @@ Implémentation personnalisée partielle de JSON Path pour mise à jour partiell
 
 TODO : GIST & blog
 
-// REST Ressource
+REST Ressource
 
+```
 @RestController
 @RequestMapping("/api/someResource")
 public class SomeRestController {
@@ -28,11 +29,12 @@ public class SomeRestController {
         }
     }   
 }
+```
 
 
+Request body + Implementation of JSON Path is enforced by enum value-objects 
 
-// Request body + Implementation of JSON Path is enforced by enum value-objects 
-
+```
 @Data
 @NoArgsConstructor
 public class PartialUpdateRequestDto {
@@ -153,14 +155,13 @@ public class PartialUpdateRequestDto {
         }
     }
 }
-
+```
 
 
 // SomeServiceImpl
 
-    //FIXME : a supprimer, on traitera cas d'utilisation par cas d'utilisation au lieu de faire un truce générique
+```
     @Override
-    //FIXME : transactionnal!
     public List<String> updatePartially(Long id, PartialUpdateRequestDto partialUpdate) throws ResourceNotFoundException {
         if (id == null) {
             throw new IllegalArgumentException("Id is required to update resource");
@@ -238,3 +239,4 @@ public class PartialUpdateRequestDto {
         }
         return s;
     }
+```
