@@ -2,11 +2,13 @@
 layout: post
 title: "Devoxx - Tout ce que vous avez toujours voulu savoir sur la programmation fonctionnelle"
 tags: Spring5 
-date: 2018-04-16
+date: 2018-04-19
 published: false
 ---
 
 [Tout ce que vous avez toujours voulus savoir sur la programmation fonctionnelle sans jamais oser le demander](https://cfp.devoxx.fr/2018/talk/LHH-5744/_Tout_ce_que_vous_avez_toujours_voulus_savoir_sur_la_programmation_fonctionnelle_sans_jamais_oser_le_demander)
+
+TODO : a recouper avec le workshop ELM
 
 Les effets de bord c'est mal. On essaye des les repérer et réparer le code pour éviter au maximum les effets de bord. Les effets de bord ont du bon, mais a la périphérie du programme.
 

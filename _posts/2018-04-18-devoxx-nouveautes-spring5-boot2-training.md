@@ -2,7 +2,7 @@
 layout: post
 title: "Devoxx - Nouveeautés de Spring 5 SpringBoot2, reactor"
 tags: Spring5 
-date: 2018-04-16
+date: 2018-04-18
 published: false
 ---
 Cette année, à Devoxx France, j'ai eu la chance d'assister à un ["hands on" sur les nouveautés de Spring 5, Spring Boot 2](https://cfp.devoxx.fr/2018/talk/CAA-2373/Decouvrir_les_nouveautes_de_Spring_5_&_Spring_Boot_2_par_la_pratique). 
