@@ -1,8 +1,9 @@
 ---
+layout: post
+taitle: "Koding Dojos"
 date: 2018-04-23
-published:false
+published: false
 ---
-
 Faire des coding dojo de 1h30 : 1h kata, 30min review.
 * http://codingdojo.org
 
