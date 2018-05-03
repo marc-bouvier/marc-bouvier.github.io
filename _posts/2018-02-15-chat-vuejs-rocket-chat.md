@@ -4,12 +4,10 @@ title: "Simple chat with VueJS & Rocket.Chat"
 tags: RocketChat VueJs
 date: 2018-02-15
 ---
-Simple chat application with Rocket.Chat and VueJs. 
+![Chat in action]({{ "/assets/minimalistic-vuejs-rocket.chat.gif" | absolute_url }}) Simple chat application with Rocket.Chat and VueJs. 
 
 * [See live version.](https://marc-bouvier.github.io/rx-rocket.chat-sample/#/)
 * [See sources](https://github.com/marc-bouvier/rx-rocket.chat-sample)
-
-![Chat in action]({{ "/assets/minimalistic-vuejs-rocket.chat.gif" | absolute_url }})
 
 You can try the chat in [this demo](https://marc-bouvier.github.io/rx-rocket.chat-sample/#/).
 
