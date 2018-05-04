@@ -2,7 +2,7 @@
 layout: post
 date: 2018-01-30
 title: "ClojureScript + VueJs, Is it possible for now?"
-tags: vueJs clojureScript
+tags: VueJs ClojureScript
 published: false
 ---
 

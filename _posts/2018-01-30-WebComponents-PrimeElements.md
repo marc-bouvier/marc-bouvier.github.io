@@ -2,7 +2,7 @@
 layout: post
 date: 2018-01-30
 title: "The rise of WebComponents"
-tags: WebComponents standard frontend
+tags: WebComponents Standard FrontEnd
 ---
 
 More and more companies propose WebComponents based elements.

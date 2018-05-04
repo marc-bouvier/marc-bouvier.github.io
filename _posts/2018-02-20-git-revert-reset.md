@@ -2,7 +2,7 @@
 layout: post
 title: "Reset and revert with GIT"
 date: 2018-02-20
-tags: git revert reset
+tags: Git How-To
 ---
 
 Some commands that allow to go back in time with git.

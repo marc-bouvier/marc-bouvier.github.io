@@ -2,7 +2,7 @@
 layout: post
 title: "Multiplatform applications with Kotlin 1.2"
 date: 2018-02-20
-tags: kotlin multiplatform android ios jvm javascript
+tags: Kotlin How-To Multi-Platform Android Ios Jvm Javascript
 ---
 
 Kotlin 1.2 allows to build application with shared code between plaftorms. Using gradle and the language 

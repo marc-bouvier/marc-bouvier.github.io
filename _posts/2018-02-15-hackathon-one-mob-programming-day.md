@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Hackathon : one mob programming day"
+title: "Hackathon : one mob programming day (French)"
 date: 2018-02-15
-tags: mobProgramming agile hackathon
+tags: Mob-Programming Agile Hackathon French
 published: false
 ---
 

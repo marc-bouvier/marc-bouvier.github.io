@@ -2,7 +2,7 @@
 layout: post
 title: ""
 date: 2018-02-02
-tags: 
+tags: Efficiency Distributed-Organization XDSD
 published: false
 ---
 
@@ -13,7 +13,7 @@ https://dzone.com/articles/are-you-a-coder-or-a-developer
 This article has very interesting reactions in the comment section. And is worth analysing.
 
 The main criticism in my humble opinion is that the ideas of this article are exposed as a general truth (I think the author uses
-this style to suscite reactions and so his ideas are chgallenged).
+this style to suscite reactions and so his ideas are challenged).
 
 ## Stop chatting, start coding
 

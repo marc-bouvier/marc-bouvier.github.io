@@ -2,7 +2,7 @@
 layout: post
 title: "Apache Isis - Domain driven applications"
 date: 2018-01-30
-tags: ddd domain driven 
+tags: Domain-Driven-Design Framework Apache-Isis
 published: false
 ---
 
@@ -16,4 +16,3 @@ Isis is supposed to take care of the gui for you and let you concentrate on busi
 Also, it may be a good starting point for BDD and DDD trainings.
 
 Let's take a closer look at Isis.
-

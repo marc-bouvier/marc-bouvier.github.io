@@ -2,7 +2,7 @@
 layout: post
 title: "Tech digest 2018-03-01"
 date: 2018-03-01
-tags: performance javascript technology innovation DDD ValueObject
+tags: Performance Javascript Technology Innovation Domain-Driven-Design Value-Object
 ---
 How techology stopped being innovation, The cost of javascript
 

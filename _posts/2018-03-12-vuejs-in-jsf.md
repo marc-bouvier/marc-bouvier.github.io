@@ -2,7 +2,7 @@
 layout: post
 title: "Integrate vuejs in existing JSF application"
 date: 2018-03-12
-tags: JSF javascript vueJs Spring Rest
+tags: JSF Javascript VueJs Spring Rest
 ---
 
 In this post we will see how to integrate some vueJs application using JSF and Spring Rest Controller as backend.

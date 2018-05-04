@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building an application with Nuxt"
-tags: vueJs Nuxt Bootstrap
+tags: VueJs Nuxt Bootstrap Convention-Over-Configuration
 date: 2018-02-18
 published: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Delivery app from food-truck during event"
-tags: innovation branding partnership ios android
+tags: Innovation Branding Partnership Multi-Platform
 published: false
 date: 2018-02-06
 ---
