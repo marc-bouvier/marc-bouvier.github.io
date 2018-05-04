@@ -4,7 +4,8 @@ title: "Tech digest 26th march 2018"
 date: 2018-03-26
 tags: VueJs Webpack Digest
 ---
-Hugue digest since i just processed my mailbox to zero inbox.
+
+Huge digest since i just processed my mailbox to zero inbox.
 
 * [Vue.js and Webpack 4 From Scratch, Part 1](https://itnext.io/vuejs-and-webpack-4-from-scratch-part-1-94c9c28a534a)
 * [Hackers Are So Fed Up With Twitter Bots They’re Hunting Them Down Themselves](https://medium.com/theintercept/hackers-are-so-fed-up-with-twitter-bots-theyre-hunting-them-down-themselves-b315ac2a56ed)

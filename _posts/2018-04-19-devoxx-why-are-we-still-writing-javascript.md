@@ -5,6 +5,7 @@ tags: Language French Abstraction Javascript Elm Closure TypeScript ReasonMl Pur
 date: 2018-04-19
 published: false
 ---
+
 [...but why are we then still writing JavaScript? / ...mais alors pourquoi encore coder en 
 JavaScript ?](https://cfp.devoxx.fr/2018/talk/ODZ-6183/...but_why_are_we_then_still_writing_JavaScript%3F_%2F_...mais_alors_pourquoi_encore_coder_en_JavaScript_%3F) 
 par [Wolfgang Goedel (SFEIR)](https://cfp.devoxx.fr/2018/speaker/wolfgang_goedel)

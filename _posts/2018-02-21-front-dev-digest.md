@@ -4,6 +4,7 @@ title: "Front dev digest 2018-20-21"
 date: 2018-02-21
 tags: VueJs Auth0 Anti-Pattern
 ---
+
 Tech digest: 2018-02-21
 
 ## [How not to Vue](https://itnext.io/how-not-to-vue-18f16fe620b5)

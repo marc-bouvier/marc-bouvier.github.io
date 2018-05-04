@@ -5,6 +5,7 @@ tags: Spring Reactive-Programming SpringBoot Devoxx
 date: 2018-04-18
 published: false
 ---
+
 Cette année, à Devoxx France, j'ai eu la chance d'assister à un ["hands on" sur les nouveautés de Spring 5, Spring Boot 2](https://cfp.devoxx.fr/2018/talk/CAA-2373/Decouvrir_les_nouveautes_de_Spring_5_&_Spring_Boot_2_par_la_pratique). 
 
 Ce training de 3h animé par [Patrick Allain (SOAT)](https://cfp.devoxx.fr/2018/speaker/patrick_allain) et [David Wurstesein (SOAT)](https://cfp.devoxx.fr/2018/speaker/david_wursteisen)a eu lieu en très petit comité et était partagé entre une présentation, du live coding et des travaux pratiques individuels. 

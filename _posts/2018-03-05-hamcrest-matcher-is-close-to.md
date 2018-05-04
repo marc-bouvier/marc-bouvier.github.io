@@ -1,9 +1,10 @@
 ---
 layout: post
 title : "Hamcrest matcher : LocalDateTime is close to another"
-tags : JUnit Hamcrest How-To
+tags : JUnit Hamcrest How-To Testing
 date: 2018-03-05
 ---
+
 This Hamcrest matcher allows to know if a LocalDateTime is close (with parametrable tolerance) to another. I know it can be generalized with additional types supported. But for now it does the job.
 
 Usage
