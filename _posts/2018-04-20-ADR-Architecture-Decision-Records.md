@@ -2,6 +2,7 @@
 layout: post
 title: "ADR Architecture Decision Records"
 published: false
+tags: Architecture Enterprise-Architecture Methodology French How-To
 date: 2018-04-20
 ---
 

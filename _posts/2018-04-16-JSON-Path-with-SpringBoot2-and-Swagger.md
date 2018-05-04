@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Update partially ressource with JSON Path and SpringBoot 2"
-tags: JSONPath SpringBoot2 Java REST PATCH
+tags: JSONPath SpringBoot Java REST
 date: 2018-04-16
 published: false
 ---

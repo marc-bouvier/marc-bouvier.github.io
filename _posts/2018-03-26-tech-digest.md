@@ -2,7 +2,7 @@
 layout: post
 title: "Tech digest 26th march 2018"
 date: 2018-03-26
-tags: digest
+tags: VueJs Webpack Digest
 ---
 Hugue digest since i just processed my mailbox to zero inbox.
 

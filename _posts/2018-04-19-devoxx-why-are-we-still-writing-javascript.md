@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Devoxx - Why are we still writing javascript?fd!mmjl içn⁼still writing javascript? (French)"
+title: "Devoxx - Why are we still writing javascript? (French)"
 tags: Language French Abstraction Javascript Elm Closure TypeScript ReasonMl PureScript 
 date: 2018-04-19
 published: false

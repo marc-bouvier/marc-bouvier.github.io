@@ -2,7 +2,7 @@
 layout: post
 title: "Design patterns across programmation paradigms"
 date: 2018-04-20
-tags: oop fp designPattern
+tags: Object-Oriented-Programming Functional-Programming Design-Pattern
 published: false
 ---
 

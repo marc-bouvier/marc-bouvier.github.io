@@ -2,6 +2,7 @@
 layout: post
 title: "Add interactions to your presentations"
 date: 2018-04-23
+tags: Feedback Soft-Skills Training Tooling
 published: false
 ---
 

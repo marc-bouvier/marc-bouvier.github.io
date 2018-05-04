@@ -2,7 +2,7 @@
 layout: post
 title: "Apache Isis - Domain driven applications"
 date: 2018-01-30
-tags: Domain-Driven-Design Framework Apache-Isis
+tags: Domain-Driven-Design Framework
 published: false
 ---
 

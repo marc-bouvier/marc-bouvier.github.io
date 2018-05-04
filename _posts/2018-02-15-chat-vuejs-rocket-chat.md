@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Simple chat with VueJS & Rocket.Chat"
-tags: RocketChat VueJs Demo
+tags: RocketChat VueJs Demo WebSocket Open-Source
 date: 2018-02-15
 ---
 ![Chat in action]({{ "/assets/minimalistic-vuejs-rocket.chat.gif" | absolute_url }}) Simple chat application with Rocket.Chat and VueJs. 

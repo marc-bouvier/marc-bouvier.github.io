@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Devoxx - Devenir meilleur avec le terminal"
-tags: script French terminal bash linux 
+tags: Script French Terminal Bash Linux Linux French 
 date: 2018-04-19
 published: false
 ---

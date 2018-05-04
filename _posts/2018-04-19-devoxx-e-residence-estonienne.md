@@ -2,10 +2,7 @@
 layout: post
 title: "Devoxx 2018 - E-residence estonienne et entreprenariat sans frontières"
 date: 2018-04-19
-tags: 
-   - "E governnment"
-   - "French"
-   - "E-Residency"
+tags: Open-Government French Devoxx
 ---
 
 Arnaud Castaignet est venu nous parler des services publiques informatisés de l'Estonie et du programme E-Residency.

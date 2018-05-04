@@ -2,7 +2,7 @@
 layout: post
 date: 2018-03-15
 title: "How to reconnect websocket and subscriptions"
-tags: vueJs vueX websocket reconnection
+tags: VueJs VueX WebSocket
 published: false
 ---
 

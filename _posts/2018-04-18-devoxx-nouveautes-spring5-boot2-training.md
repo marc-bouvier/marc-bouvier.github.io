@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Devoxx - Nouveeautés de Spring 5 SpringBoot2, reactor"
-tags: Spring5 
+tags: Spring Reactive-Programming SpringBoot Devoxx
 date: 2018-04-18
 published: false
 ---

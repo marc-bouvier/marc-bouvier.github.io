@@ -2,6 +2,7 @@
 layout: post
 title: "Devoxx DDD et RGPD"
 published: false
+tags: Devoxx RGPD Domain-Driven-Design
 date: 2018-04-19
 ---
 

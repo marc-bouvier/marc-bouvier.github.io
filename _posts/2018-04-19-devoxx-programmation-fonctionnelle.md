@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Devoxx - Tout ce que vous avez toujours voulu savoir sur la programmation fonctionnelle"
-tags: Spring5 
+tags: Devoxx French Functional-Programming Closure Lambda
 date: 2018-04-19
 published: false
 ---
