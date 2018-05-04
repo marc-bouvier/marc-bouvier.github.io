@@ -11,7 +11,12 @@ layout: default
       <div class="entry">
         {{ post.excerpt }}
       </div>
-
+      <div class="tags">[
+        {% for tag in post.tags %}
+          {% capture tag_name %}{{ tag }}{% endcapture %}
+          <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+        {% endfor %}
+      ]</div>
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
