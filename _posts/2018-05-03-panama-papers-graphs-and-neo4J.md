@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "Retour sur les panama papers et les bases de donnés graphe (Benoit Simard) (french)"
 date: 2018-05-03
 tags: French Graph Neo4J NoSql
 published: false

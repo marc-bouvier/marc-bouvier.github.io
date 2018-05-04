@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Devoxx DDD et RGPD"
+title: "Devoxx DDD et RGPD (french)"
 published: false
-tags: Devoxx RGPD Domain-Driven-Design
+tags: Devoxx RGPD Domain-Driven-Design French
 date: 2018-04-19
 ---
 

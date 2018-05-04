@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Devoxx - Tout ce que vous avez toujours voulu savoir sur la programmation fonctionnelle"
+title: "Devoxx - Tout ce que vous avez toujours voulu savoir sur la programmation fonctionnelle (french)"
 tags: Devoxx French Functional-Programming Closure Lambda
 date: 2018-04-19
 published: false

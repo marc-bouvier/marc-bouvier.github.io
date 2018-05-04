@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Technology radar"
+title: "Technology radar (french)"
 published: false
 tags: Architecture Enterprise-Architecture Methodology French
 date: 2018-04-20

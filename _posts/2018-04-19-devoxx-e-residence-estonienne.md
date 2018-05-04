@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Devoxx 2018 - E-residence estonienne et entreprenariat sans frontières"
+title: "Devoxx 2018 - E-residence estonienne et entreprenariat sans frontières (french)"
 date: 2018-04-19
 tags: Open-Government French Devoxx
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Testez vos connaissances avec Oxiane"
+title: "Testez vos connaissances avec Oxiane (french)"
 tags: Training French Branding
 date: 2018-05-02
 ---

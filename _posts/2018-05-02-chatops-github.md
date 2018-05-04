@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Intégration et déploiement en continu @ Github (Alain Hélaïli) (French)"
+title: "Intégration et déploiement en continu @ Github (Alain Hélaïli) (french)"
 date: 2018-05-02
 tags: Git GitHub Chat-Bot DevOps Continuous-Delivery HuBot
 ---
