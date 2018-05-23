@@ -12,13 +12,10 @@ import org.springframework.context.annotation.ComponentScan;
 /**
  * Light Spring context to test only REST.
  */
-@SpringBootApplication(exclude = {DataSourceAutoConfiguration.class, HibernateJpaAutoConfiguration.class})
-@ComponentScan({"com.adis.g2a.gestion.acte.rest"})
+@Configuration
+@ComponentScan({"com.package.to.rest"})
 public class MyRestTestConfig {
 
-    public static void main(String[] args) {
-        new SpringApplicationBuilder(MyRestTestConfig.class).run(args);
-    }
 }
 
 ```
