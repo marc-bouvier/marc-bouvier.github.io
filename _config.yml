@@ -10,7 +10,7 @@ description: Software Craftsman
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/15436007?s=460&v=4
-
+paginate: 10
 #
 # Flags below are optional
 #
@@ -78,6 +78,7 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-pagination
 
 # Exclude these files from your production _site
 exclude:
