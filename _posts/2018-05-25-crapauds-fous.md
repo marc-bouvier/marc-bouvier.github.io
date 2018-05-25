@@ -15,3 +15,4 @@ published: false
 * [Framabee](https://framabee.org/) - méta moteur de recharge qui ne nous trace pas.
 * [Framasoft](https://framasoft.org/)
 * [Ecosia](https://www.ecosia.org/) - un méta moteur de recherche qui plante des arbres
+* [Reinventing organizations](http://www.reinventingorganizations.com/) - Frédéric Laloux. 3 principes qui font pener à l'anarchisme
