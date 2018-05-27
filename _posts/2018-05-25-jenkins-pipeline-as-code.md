@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pipeline as code with Jenkins (french)"
-tags: Jenkins ContinuousIntegration Build French
+tags: Jenkins Continuous-Integration Build French
 published: false
 ---
 

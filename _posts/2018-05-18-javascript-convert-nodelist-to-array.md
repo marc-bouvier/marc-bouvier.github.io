@@ -2,7 +2,7 @@
 layout: post
 title: 'Convert dom NodeList to Array of nodes'
 date: 2018-05-18
-tags: Javascript DOM HowTo
+tags: Javascript DOM How-To
 ---
 `var nodesArray = [].slice.call(document.querySelectorAll("div"));`
 
