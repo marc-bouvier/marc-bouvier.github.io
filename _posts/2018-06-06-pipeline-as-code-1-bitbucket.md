@@ -16,3 +16,6 @@ Bitbucket est disponible à l'adresse [http://localhost:7990](http://localhost:7
 Créer une license d'évaluation et configurer le serveur
 
 Bitbucket est installé!
+
+TODO : à déplacer dans le post 2
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k_fVlU1FwP4?cc_load_policy=1&hl=fr_FR" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
