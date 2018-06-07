@@ -18,4 +18,4 @@ Créer une license d'évaluation et configurer le serveur
 Bitbucket est installé!
 
 TODO : à déplacer dans le post 2
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k_fVlU1FwP4?cc_load_policy=1&hl=fr&rel=0&version=3" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k_fVlU1FwP4?cc_load_policy=1&hl=fr&rel=0&version=3&cc_lang_pref=fr" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
