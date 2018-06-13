@@ -1,5 +1,4 @@
 ---
-layout:post
 title: "Faire un pas de côté avec les crapauds fous?"
 published: false
 ---
