@@ -28,8 +28,9 @@
         <itunes:explicit>no</itunes:explicit>
 		
 {% for post in site.posts %}
-    {% for tag in post.tags.select{ |item| item == "Podcast" } %}
-	    
+    {% for tag in post.tags %}
+	    {{tag}},
+    {% endfor %}	    
         <item>
             <title>{{ post.title | xml_escape }}</title>
             <itunes:author>{{ site.author }}</itunes:author>
@@ -45,7 +46,7 @@
             <itunes:keywords>{{ post.keywords }}</itunes:keywords>
             <itunes:block>{{ post.block }}</itunes:block>
 		</item>
-    {% endfor %}
+   
 {% endfor %}
 	</channel>
 </rss>
