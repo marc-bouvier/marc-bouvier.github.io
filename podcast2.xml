@@ -2,34 +2,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<channel>
-		<atom:link href="http://lescastcodeurs.libsyn.com/rss" rel="self" type="application/rss+xml"/>
-		<title>Les Cast Codeurs Podcast</title>
+		<atom:link href="http://marc-bouvier.github.io/podcast2.xml" rel="self" type="application/rss+xml"/>
+		<title>Marc Bouvier Podcast</title>
 		<pubDate>Sat, 16 Jun 2018 14:18:40 +0000</pubDate>
 		<lastBuildDate>Mon, 02 Jul 2018 11:27:44 +0000</lastBuildDate>
-		<generator>Libsyn WebEngine 2.0</generator>
-		<link>http://lescastcodeurs.com</link>
+		<generator>Jekyll over Github pages</generator>
+		<link>https://marc-bouvier.github.io</link>
 		<language>fr</language>
-		<copyright><![CDATA[Emmanuel Bernard, Guillaume Laforge, Vincent Massol, Antonio Goncalves, Arnaud Heritier, Audrey Neveu]]></copyright>
-		<docs>http://lescastcodeurs.com</docs>
+		<copyright><![CDATA[Marc Bouvier]]></copyright>
+		<docs>https://marc-bouvier.github.io</docs>
 		<managingEditor>admin@lescastcodeurs.com (admin@lescastcodeurs.com)</managingEditor>
-		<itunes:summary><![CDATA[Restez informes sur les sujets brulants de l industrie Java. 
-Plongez sur un sujet precis avec l interview de l episode. 
-Supportez les radotages de vos hôtes : Emmanuel Bernard (JBoss, Hibernate), Arnaud Héritier (CloudBees, Jenkins), Guillaume Laforge (Google, Groovy), Antonio Goncalves (freelance, auteur), Vincent Massol (XWiki, Maven), Audrey Neveu (Saagie, Devoxx4Kids).]]></itunes:summary>
+		<itunes:summary><![CDATA[Dodelido]]></itunes:summary>
 		<image>
-			<url>http://static.libsyn.com/p/assets/2/5/5/f/255f68ddc87cc049/logo-lescastcodeurs-1400px-white.png</url>
-			<title>Les Cast Codeurs Podcast</title>
-			<link><![CDATA[http://lescastcodeurs.com]]></link>
+			<url>https://avatars1.githubusercontent.com/u/15436007?s=460&v=4</url>
+			<title>Marc Bouvier Podcast</title>
+			<link><![CDATA[https://marc-bouvier.github.io]]></link>
 		</image>
-		<itunes:author>Emmanuel Bernard, Guillaume Laforge, Vincent Massol, Antonio Goncalves, Audrey Neveu</itunes:author>
+		<itunes:author>Marc Bouvier</itunes:author>
 		<itunes:keywords>developpeur,java,jvm</itunes:keywords>
 		<itunes:category text="Technology">
 			<itunes:category text="Tech News"/>
 		</itunes:category>
-		<itunes:image href="http://static.libsyn.com/p/assets/2/5/5/f/255f68ddc87cc049/logo-lescastcodeurs-1400px-white.png" />
+		<itunes:image href="https://avatars1.githubusercontent.com/u/15436007?s=460&v=4" />
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:owner>
-			<itunes:name><![CDATA[Emmanuel Bernard]]></itunes:name>
-			<itunes:email>admin@lescastcodeurs.com</itunes:email>
+			<itunes:name><![CDATA[Marc Bouvier]]></itunes:name>
+			<itunes:email>m.bouvier.dev@gmail.com</itunes:email>
 		</itunes:owner>
 		<description><![CDATA[Le podcast Java en Français dans le texte]]></description>
 		<itunes:subtitle><![CDATA[En Francais dans le Code]]></itunes:subtitle>
