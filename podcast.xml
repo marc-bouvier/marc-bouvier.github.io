@@ -28,7 +28,7 @@
         <itunes:explicit>no</itunes:explicit>
 		
 {% for post in site.posts %}
-    {% for tag in post.tags | | where_exp:"item", "item == 'Podcast'"  %}
+    {% for tag in post.tags | where_exp:"item", "item == 'Podcast'"  %}
 	    {{tag}},
     {% endfor %}	    
         <item>
