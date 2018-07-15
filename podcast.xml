@@ -28,7 +28,7 @@
         <itunes:explicit>no</itunes:explicit>
 		
 {% for post in site.posts %}
-    {% for tag in post.tags %}
+    {% for tag in post.tags.select{|item| item=="Podcast"} %}
 	    {{tag}},
     {% endfor %}	    
         <item>
