@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Title Goes Here"
-file: "{{ site.url }}/assets/2018-07-15-test-podcast/true.mp3"
+file: site.url+"/assets/2018-07-15-test-podcast/true.mp3"
 summary: "Quick exerpt of episode"
 description: "Longer information"
 explicit: "do we swear" 
