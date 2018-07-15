@@ -28,8 +28,11 @@
         <itunes:explicit>no</itunes:explicit>
 		
 {% for post in site.posts %}
-    {% for tag in post.tags | where_exp:"item", "item == 'Podcast'"  %}
+    {% for tag in post.tags %}
+	    {% if tag == "Podcast" %}
+	   
 	    {{tag}},
+	    {% endif %}
     {% endfor %}	    
         <item>
             <title>{{ post.title | xml_escape }}</title>
