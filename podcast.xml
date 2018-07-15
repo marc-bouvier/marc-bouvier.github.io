@@ -30,10 +30,6 @@
 {% for post in site.posts %}
     {% for tag in post.tags %}
 	    {% if tag == "Podcast" %}
-	   
-	    {{tag}},
-	    {% endif %}
-    {% endfor %}	    
         <item>
             <title>{{ post.title | xml_escape }}</title>
             <itunes:author>{{ site.author }}</itunes:author>
@@ -50,6 +46,8 @@
             <itunes:block>{{ post.block }}</itunes:block>
 		</item>
    
+	    {% endif %}
+    {% endfor %}	    
 {% endfor %}
 	</channel>
 </rss>
