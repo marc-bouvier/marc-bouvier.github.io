@@ -7,6 +7,7 @@ description: "Longer information"
 explicit: "do we swear" 
 keywords: "keyword tags"
 voices: "who did the talking"
+tags: Podcast
 ---
 test de podcast avec ressource audio
 <audio controls>
