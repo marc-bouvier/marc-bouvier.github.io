@@ -45,7 +45,7 @@
 			<link><![CDATA[{{ site.url }}assets/{{ post.file }}]]></link>
 			<itunes:image href="https://avatars1.githubusercontent.com/u/15436007?s=460&v=4" />
 			<description><![CDATA[{{ post.summary | xml_escape }} {{ post.description | xml_escape }} Show Notes Available at {{ site.url }}{{ site.baseurl }}{{ post.url }}.]]></description>
-			<content:encoded><![CDATA[{{ post.summary | xml_escape }} {{ post.description | xml_escape }} Show Notes Available at {{ site.url }}{{ site.baseurl }}{{ post.url }}.]]></content:encoded>
+			<content:encoded><![CDATA[{{ post.content }}]]></content:encoded>
 			<enclosure url="{{ site.url }}assets/{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
 			<itunes:duration>{{post.duration}}</itunes:duration>
 			<itunes:explicit>no</itunes:explicit>
