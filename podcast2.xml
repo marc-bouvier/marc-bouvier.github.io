@@ -13,7 +13,7 @@
 		<language>{{ site.lang }}</language>
 		<copyright><![CDATA[Marc Bouvier]]></copyright>
 		<docs>https://marc-bouvier.github.io</docs>
-		<managingEditor>admin@lescastcodeurs.com (admin@lescastcodeurs.com)</managingEditor>
+		<managingEditor>m.bouvier.dev@gmail.com (m.bouvier.dev@gmail.com)</managingEditor>
 		<itunes:summary><![CDATA[Résumé : Marc Bouvier]]></itunes:summary>
 		<image>
 			<url>https://avatars1.githubusercontent.com/u/15436007?s=460&v=4</url>
