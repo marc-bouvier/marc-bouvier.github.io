@@ -1,1 +1,3 @@
-[Google shell guidelines](https://google.github.io/styleguide/shell.xml)
+---
+tags: Best-Practices Shell
+---[Google shell guidelines](https://google.github.io/styleguide/shell.xml)
