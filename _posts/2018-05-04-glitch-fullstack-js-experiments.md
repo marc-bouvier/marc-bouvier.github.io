@@ -2,7 +2,7 @@
 layout: post
 title: "Experiment easily fullstack javascript apps with Glitch"
 date: 2018-05-04
-tags: Javascript FrontEnd BackEnd Platform Cloud Experimentation
+tags: Javascript FrontEnd Back-End Platform Cloud Experimentation
 ---
 
 Experiement easily javascript Frameworks, APIS and backend with [Glitch](https://glitch.com/).

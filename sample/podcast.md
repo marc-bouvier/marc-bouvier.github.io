@@ -11,6 +11,7 @@ block: "no"
 keywords: "keyword tags"
 voices: "who did the talking"
 tags: Podcast
+podcast: true
 ---
 test de podcast avec ressource audio
 <audio controls>

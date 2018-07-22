@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: Agile"
-tag: Agile
+title: "Tag: WebSocket"
+tag: WebSocket
 robots: noindex
 ---

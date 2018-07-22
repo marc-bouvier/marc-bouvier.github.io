@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "Building an application with Nuxt"
-tags: VueJs Nuxt Bootstrap Convention-Over-Configuration
+tags: VueJs NuxtJs Bootstrap Convention-Over-Configuration
 date: 2018-02-18
-published: true
 ---
 
 [Nuxt](https://nuxtjs.org/) is a wrapper of vueJs that allows to quickly bootstrapping web aplication using convention over configuration.

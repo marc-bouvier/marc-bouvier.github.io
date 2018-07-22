@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: BackEnd"
-tag: BackEnd
+title: "Tag: NuxtJs"
+tag: NuxtJs
 robots: noindex
 ---

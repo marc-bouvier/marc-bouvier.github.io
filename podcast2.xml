@@ -35,9 +35,8 @@
 		<itunes:subtitle><![CDATA[En Francais dans le Code]]></itunes:subtitle>
 		<itunes:type>episodic</itunes:type>
 {% for post in site.posts %}
-    {% for tag in post.tags %}
-	    {% if tag == "Podcast" %}
-				<item>
+		{% if post.podcast %}
+		<item>
 			<title>{{ post.title | xml_escape }}</title>
 			<itunes:title>{{ post.title | xml_escape }}</itunes:title>
 			<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
@@ -54,9 +53,8 @@
 			<itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:block>{{ post.block }}</itunes:block>
-					</item>
-	    {% endif %}
-    {% endfor %}	    
+		</item>
+		{% endif %} 
 {% endfor %}
 	</channel>
 </rss>

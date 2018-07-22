@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: Auth0"
-tag: Auth0
+title: "Tag: Sonar"
+tag: Sonar
 robots: noindex
 ---

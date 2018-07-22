@@ -1,29 +1,36 @@
+---
+tags: How-To Jenkins Docker
+---
+La suite : 
+* [Installation de Bitbucket avec Docker](2018/06/06/pipeline-as-code-1-bitbucket/)
+* [Pipeline as code avec Jenkins et Bitbucket](2018/06/10/Pipeline-as-code-with-Jenkins-and-bitbucket/)
+
 
 ``̀
-docker pull jenkins/jenkins:lts
-docker run --name myjenkins -p 8080:8080 -p 50000:50000 -v /var/jenkins_home jenkins/jenkins:lts
+  docker pull jenkins/jenkins:lts
+  docker run --name myjenkins -p 8080:8080 -p 50000:50000 -v /var/jenkins_home jenkins/jenkins:lts
 ```
 
 Lire les logs pour noter l'utilisateur et le mote de passe générés pour pouvoir lancer le setup.
 ```
-*************************************************************
-*************************************************************
-*************************************************************
+  *************************************************************
+  *************************************************************
+  *************************************************************
 
-*************************************************************
-*************************************************************
-*************************************************************
+  *************************************************************
+  *************************************************************
+  *************************************************************
 
-Jenkins initial setup is required. An admin user has been created and a password generated.
-Please use the following password to proceed to installation:
+  Jenkins initial setup is required. An admin user has been created and a password generated.
+  Please use the following password to proceed to installation:
 
-d5567ba0c53b43709e2daae0bf8e6fa9
+  d5567ba0c53b43709e2daae0bf8e6fa9
 
-This may also be found at: /var/jenkins_home/secrets/initialAdminPassword
+  This may also be found at: /var/jenkins_home/secrets/initialAdminPassword
 
-*************************************************************
-*************************************************************
-*************************************************************
+  *************************************************************
+  *************************************************************
+  *************************************************************
 
 ̀̀̀```
 Terminer l'installation de Jenkins : [http://localhost:8080](http://localhost:8080)

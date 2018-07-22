@@ -1,6 +1,6 @@
 ---
 title: "Faire un pas de côté avec les crapauds fous?"
-published: false
+tags: Education French Organization Politics
 ---
 
 * [Survivre au système éducatif, Hackers et Crapauds fous](https://www.youtube.com/watch?v=Gun2ez6kzIk). Interview de Thanh Nghiem, ingénieure, en direct le 22/05/2018 à 19h.

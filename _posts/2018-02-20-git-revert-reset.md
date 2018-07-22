@@ -2,7 +2,7 @@
 layout: post
 title: "Reset and revert with GIT"
 date: 2018-02-20
-tags: Git How-To
+tags: Git How-To Version-Control
 ---
 
 Some commands that allow to go back in time with git.
@@ -17,5 +17,5 @@ Some commands that allow to go back in time with git.
 
 ## Source
 
-https://stackoverflow.com/questions/11722533/rollback-a-git-merge
+[https://stackoverflow.com/questions/11722533/rollback-a-git-merge](https://stackoverflow.com/questions/11722533/rollback-a-git-merge)
 

@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: Nuxt"
-tag: Nuxt
+title: "Tag: Education"
+tag: Education
 robots: noindex
 ---
