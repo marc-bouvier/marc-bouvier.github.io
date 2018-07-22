@@ -6,7 +6,7 @@ La suite :
 * [Pipeline as code avec Jenkins et Bitbucket](2018/06/10/Pipeline-as-code-with-Jenkins-and-bitbucket/)
 
 
-``̀
+```
   docker pull jenkins/jenkins:lts
   docker run --name myjenkins -p 8080:8080 -p 50000:50000 -v /var/jenkins_home jenkins/jenkins:lts
 ```
@@ -32,7 +32,8 @@ Lire les logs pour noter l'utilisateur et le mote de passe générés pour pouvo
   *************************************************************
   *************************************************************
 
-̀̀̀```
+̀̀̀
+
 Terminer l'installation de Jenkins : [http://localhost:8080](http://localhost:8080)
 
 Installer les plugins suggérés
@@ -43,7 +44,7 @@ Redémarrer Jenkins
 
 Jenkins est installé pour pouvoir travailler avec des pipelines et Blue Océan.
 
-Installer le plugin ̀`Bitbucket Branch Source` et ̀`Sonarqube scanner`
+Installer le plugin ̀Bitbucket Branch Source` et ̀Sonarqube scanner`
 
 Configurer un jdk et maven dans Jenkins
 Aller dans Manage Jenkins > Global Tools configuration
