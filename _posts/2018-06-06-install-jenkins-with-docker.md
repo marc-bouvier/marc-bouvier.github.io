@@ -31,8 +31,7 @@ Lire les logs pour noter l'utilisateur et le mote de passe générés pour pouvo
   *************************************************************
   *************************************************************
   *************************************************************
-
-̀̀̀
+```
 
 Terminer l'installation de Jenkins : [http://localhost:8080](http://localhost:8080)
 
