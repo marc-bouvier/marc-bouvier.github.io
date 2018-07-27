@@ -1,5 +1,5 @@
 ---
-tags: Discipline Experimentation Methodology
+tags: Discipline Experimentation Methodology Conduct-Of-Change
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6xnealmhEnM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 [RailsConf 2018: Mechanically Confident by Adam Cuppy](https://www.youtube.com/watch?v=6xnealmhEnM&index=33&list=PLE7tQUdRKcyak-yFKj5IN3tDYOh5omMrH)
