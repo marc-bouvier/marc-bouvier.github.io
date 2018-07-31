@@ -178,3 +178,86 @@ When you start to learn you achieve the valley of despair.
 
 And you slowly mount the "slope on enlightment" 
 
+## Confidence and Atractiveness
+
+> Attraction is about a certain primal magnetisn. Of course we can be pfysically attracted to someone,
+> but we are more often drawn to their confidence, passion and personality.
+
+Cycles of confidence. The speaker thinks that confidence is cubic equation. Vertuous cycle (Flywheel effect) or vicious cycle.
+
+When you are confident you are more likely to try new things and they go well and you get more and more confidence.
+
+When you are not confident you don't want to try new things, you stay home and you get less and less and less confident.
+
+You have to cross the inflexion point (0 ; 0) From the vicious cycle to the vertuous cycle.
+
+## Building confidence
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ks-_Mh1QhMc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Non verbal expressions of power and confidence.
+
+Postural feedback effect. Adopting a "Poer Pose" 
+* Increases feelings of power and confidence
+* Activates approach system instead of avoidance
+
+Improves
+* Performance under stress
+* Mood and motivation
+* Assertiveness
+* Physical Strength
+
+> Do it untill you become it!
+
+## Find your core
+
+> Connect yo your core and you'll find strength. Act from your core and you'll move mountains.
+> 
+> Gabriella Goddard
+
+It can be walking in the wood, being good at your job ...
+
+Use yout core strength to build your foundation
+ * Profession
+ * Family
+ * Friends
+ * Relationship
+ * Volounteerism
+ * Etc.
+ 
+> Strength in one arena helps you be strong in others
+
+## Make yourself obsolete
+
+> If you are a senior Engineer, a leader of a team, coach, and are not actively working to make 
+> your team productive without you, you are literally not doing your job.
+> 
+> You can accomplish this through automation, documentation, hiring, training, etc.
+> 
+> But you do no one any favors - least of all youself - by perpetuating a bottleneck.
+>
+> Randy Shoup
+
+> Well you did an awesome job automating that ... you're fired ... said no manager ever.
+
+## Conclusion
+
+> A ship in port is safe; but that is not what ships are built for. Sail out to sea
+> and do new things.
+>
+> Grass Hopper
+
+She invented the compiler among other things.
+
+
+
+
+
+ 
+
+
+
+
+
+
+
