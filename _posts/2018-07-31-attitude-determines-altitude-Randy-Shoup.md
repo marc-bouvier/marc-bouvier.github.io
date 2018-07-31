@@ -8,6 +8,9 @@ tags: Self-Improvement Carreer
 * [Randy Shoup](linkedin.com/randyshoup)
 * [@randyshoup](https://twitter.com/randyshoup)
 
+
+## Growth mindset
+
 ```
                  |--------------|                
 I cannot         |   I know I   |              I am not 
@@ -15,8 +18,6 @@ get better       | can improve  |             good enough
                  |              |                 
 <===================================================>
 ```
-
-## Growth mindset
 
 Dr Carol Dweck of Stanford [Mindset - the new psychology of success](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322).
 > Our belief about wether we can improve that is gonna help us actually improve.
@@ -87,4 +88,14 @@ Execution from focus
 
 > It's not that I'm so smart; it's just that I stay with problems longer.
 > Albert Einstein
+
+## Trust spactrum
+
+```
+                 |--------------|                
+Distrust         |    Trust     |              Naïveté 
+                 |              |                        
+                 |              |                 
+<===================================================>
+```
 
