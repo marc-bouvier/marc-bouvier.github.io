@@ -63,3 +63,28 @@ The way you approach as you are going along.
 > Making progress on meaningful work most strongly improves motivation and performance
 
 > Steady progress and small wins lead to big gains
+
+## Focus and attention
+
+[Focus and attention - Daniel Goleman 2013](https://www.amazon.com/Focus-Hidden-Excellence-Daniel-Goleman/dp/0062114964)
+
+> Ability to focus ("cognitive control") is the best predictor of success and high achievement
+
+Creativity from "open awareness"
+* Daydreaming (great ideas in the shower, runnnig, walking, quiet, driving ...)
+* Finding unexpected connections
+
+Execution from focus
+* Goal focus
+* Resistance to distraction
+
+> Attention is a "Mental Muscle"
+
+> From the perspective of congnitive science, all meditation methods are methods to train attention.
+> Daniel Goleman
+
+-> yoga, meditation ...
+
+> It's not that I'm so smart; it's just that I stay with problems longer.
+> Albert Einstein
+
