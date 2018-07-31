@@ -45,3 +45,20 @@ Effort means that we actually care about something.
 
 [Outliers - The Story of Success - Malcolm Gladwell](https://en.wikipedia.org/wiki/Outliers_(book))
 
+> Ten thousand hours is the magic number of greatness
+
+Deliberate practice with constant challenge
+
+> Practice isn't the thnig you do once you're good. It's the thing you do that makes you good.
+
+## The progess principle
+
+[The progress principle - Dr. Teresa Amabile - Harvard Business School ]()
+
+> "Inner work life" drives performance - constant stream of emotions, perception, and motivations
+
+The way you approach as you are going along.
+
+> Making progress on meaningful work most strongly improves motivation and performance
+
+> Steady progress and small wins lead to big gains
