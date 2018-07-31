@@ -122,3 +122,15 @@ Bureaucratic Organization - Rules and Processes
 Pathological Organization - Fear and Threat
 
 [DevOps Handbook - Gene Kim ...](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
+
+## Psychological safety
+
+[Google study Re:Work - Fixe keys to a successful google team](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/)
+
+Does your team feel comfortable, safe, welcoming, inclusive for interpersonal risk taken?
+
+They actually perform better if people feel included in the organization.
+
+> If you can't change your organization, change your organization
+> 
+> Martin Folwer
