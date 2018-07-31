@@ -82,11 +82,13 @@ Execution from focus
 > Attention is a "Mental Muscle"
 
 > From the perspective of congnitive science, all meditation methods are methods to train attention.
+> 
 > Daniel Goleman
 
 -> yoga, meditation ...
 
 > It's not that I'm so smart; it's just that I stay with problems longer.
+> 
 > Albert Einstein
 
 ## Trust spactrum
@@ -134,3 +136,45 @@ They actually perform better if people feel included in the organization.
 > If you can't change your organization, change your organization
 > 
 > Martin Folwer
+
+## Confidence Spectrum
+
+```
+                 |--------------|                
+Fear             |  Confidence  |            Arrogance
+                 |              |                        
+                 |              |                 
+<===================================================>
+```
+
+> Whether think that you can or you can't you are usually right.
+> 
+> Henry Ford
+
+Impostor Phenomenon. 
+
+> Impostorism affects a wide range of people ... 70% of people will experience at 
+> least one episode of this Impostor Phenomenon in their lives.
+>
+> Jaruwan and Alexander, 2011
+
+## Confidence and Honesty
+
+[Creativity, Inc. - Ed Catmull](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012) Pixar.
+
+Ed Catmull was interviewing at Lucasfilm in 1979 to start a computer graphics group.
+
+George Lucas asked "Who else should we be talking to?"
+
+Catmull suggested <all the big names in computer graphics>. He was super transparent about it. He was the only respondent to answer that. And by the way Lucas already had interviewed the other ones (which didn't shared the names).
+
+## Overconfidence and Dunning-Kruger
+
+[Article about Dunning-Kruger with chart](https://understandinginnovation.blog/2015/07/03/the-dunning-kruger-effect-in-innovation/)
+
+Beginner : You are the most confident about your skills when you are first introduces to a new thing. It's because you don't know that you don't know. Here they call it the "peak of mt. stupid"
+
+When you start to learn you achieve the valley of despair.
+
+And you slowly mount the "slope on enlightment" 
+
