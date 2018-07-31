@@ -99,3 +99,26 @@ Distrust         |    Trust     |              Naïveté
 <===================================================>
 ```
 
+## Theory X vs. Theory Y
+
+[The human side of enterprise - Dr. Douglas McGregor, 1960](https://www.amazon.com/Human-Side-Enterprise-Annotated/dp/0071462228)
+
+Leadership's beliefs about what motivate employees
+
+Theory X : people are inherently lazy and avoid responsibility, require extrinsic motivation. As a manager you might want to "micromanage" them.
+
+Theory Y : people are intrinsically motivated, seek ownership, want to perform well. They need to be empowered, to be liberated. As a manager, you want to be out of their way.
+
+[Theory X - Theory Y diagram](https://www.businessballs.com/mcgregorxytheorydiagram.pdf)
+
+It is a fondamental belief about what other humans are like. It is very hard to change.
+
+## Westrum Organizational Model
+
+Generative organization - Trust and sharing
+
+Bureaucratic Organization - Rules and Processes
+
+Pathological Organization - Fear and Threat
+
+[DevOps Handbook - Gene Kim ...](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
