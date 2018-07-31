@@ -1,0 +1,47 @@
+---
+tags: Self-Improvement Carreer
+---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y1SpwCiRoPY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[GOTO 2018 • Attitude Determines Altitude: Engineering Yourself & Your Teams • Randy Shoup](https://www.youtube.com/watch?v=y1SpwCiRoPY)
+
+* [Randy Shoup](linkedin.com/randyshoup)
+* [@randyshoup](https://twitter.com/randyshoup)
+
+```
+                 |--------------|                
+I cannot         |   I know I   |              I am not 
+get better       | can improve  |             good enough
+                 |              |                 
+<===================================================>
+```
+
+## Growth mindset
+
+Dr Carol Dweck of Stanford [Mindset - the new psychology of success](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322).
+> Our belief about wether we can improve that is gonna help us actually improve.
+
+| Fixed mindset                                     | Growth mindset                                 |
+|---------------------------------------------------|------------------------------------------------|
+| Talent is static                                  | Talent can be developed                        |
+| Leadds to a desire to look smart and therefore... | Leads to learn and therefore a tendency to ... |
+| Avoid challenges                                  | Embrace challenges                             | 
+| Give up easily due to obstacles                   | Persist despite obstacles                      |
+| See effort as fruitless                           | See effort as path to mastery                  |
+| Ignore useful feedback                            | Learn from criticism                           |
+| Be threatened by others' success                  |  Be inspired by others' success                |
+
+We get there by doing. 
+Effort means that we actually care about something.
+
+## The expert mind
+
+[Philip E. Ross, Scientific American, August 2006](https://www.scientificamerican.com/article/the-expert-mind/)
+
+> Experts are made, not born.
+
+> Effortful study is the key to achieving success in chess, classical music, soccer and many other fields.
+
+## The 10,000 Hour Rule
+
+[Outliers - The Story of Success - Malcolm Gladwell](https://en.wikipedia.org/wiki/Outliers_(book))
+
