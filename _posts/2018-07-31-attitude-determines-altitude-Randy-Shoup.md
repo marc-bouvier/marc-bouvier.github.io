@@ -2,6 +2,7 @@
 tags: Self-Improvement Carreer
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y1SpwCiRoPY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 [GOTO 2018 • Attitude Determines Altitude: Engineering Yourself & Your Teams • Randy Shoup](https://www.youtube.com/watch?v=y1SpwCiRoPY)
 
 * [Randy Shoup](linkedin.com/randyshoup)
