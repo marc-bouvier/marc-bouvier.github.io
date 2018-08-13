@@ -18,7 +18,7 @@ Taille des ronds : effort requis
 
 ## Strategies
 
-![Strategies](/assets/2018-08-13-hacking-your-work-life-balance-Jennifer-Wadella/strategies.png)
+![Strategies](assets/2018-08-13-hacking-your-work-life-balance-Jennifer-Wadella/08_strategies.png)
 
 ### Prioritizing
 
