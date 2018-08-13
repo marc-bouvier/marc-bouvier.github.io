@@ -1,11 +1,10 @@
 ---
 tags: Career
 ---
-# Hacking your work life __ balance to take over the world
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X03WqRoNZek" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-[Slides](https://tehfedaykin.github.io/HackingYourWorkLife__Balance/)
-
-[Video talk](https://www.youtube.com/watch?v=X03WqRoNZek&feature=em-uploademail)
+* [Slides](https://tehfedaykin.github.io/HackingYourWorkLife__Balance/)
+* [Video talk](https://www.youtube.com/watch?v=X03WqRoNZek)
 
 
 ## Balance Your Work / Your life / _Blank ( your passion)
