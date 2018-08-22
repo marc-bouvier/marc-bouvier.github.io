@@ -12,3 +12,6 @@ tags : How-To
 * On windows 10 get `System.ServiceModel.Web.dll` from `C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.ServiceModel.Web.dll`.
 * Copy `System.ServiceModel.Web.dll` to `/usr/lib/keepass2` side by side with Keepass.exe
 * You can now run keepass2 and sync with google drive!
+
+If you have trouble you can follow the thread on sourceforge : https://sourceforge.net/p/kp-googlesync/discussion/general/thread/19cca399/
+
