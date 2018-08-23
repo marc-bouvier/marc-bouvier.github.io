@@ -9,7 +9,8 @@ The resources to watch and watch again.
 
 ## About TDD 
 
-* [Ian Cooper - TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM&feature=youtu.be).
+* [Ian Cooper - TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM&feature=youtu.be)
+* [Is TDD dead? - DHH, Kent Beck, Martin Fowler](https://www.youtube.com/watch?v=z9quxZsLcfo)
 
 ## Architecture
 
