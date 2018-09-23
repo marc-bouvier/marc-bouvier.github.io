@@ -3,7 +3,7 @@ tags : Career Meetup
 ---
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ElQZrwaXt9SouinXchW19pxNU8PGEQvN" width="640" height="480"></iframe>
 
-Voici une carte des meetups orientée informatique pour la fin de l'année dans le secteur de Strasbourg.
+Voici une [carte des meetups](https://www.google.com/maps/d/u/0/edit?mid=1ElQZrwaXt9SouinXchW19pxNU8PGEQvN&ll=48.59978208819969%2C7.731171899779383&z=13) orientée informatique et entreprenariat pour la fin de l'année dans le secteur de Strasbourg.
 
 N'hésitez pas à m'indiquer si vous en conaissez d'autres.
 
