@@ -20,3 +20,7 @@ TODO -> déplacer dans un blog post
 ## Architecture
 
 * [Être architecte logiciel en 2018 (C. Martraire, A. Loyer)](https://www.youtube.com/watch?v=1igv2rHGKfo)
+
+# Ecology
+
+* [Ecologie et nouveau pacte avec le vivant : Aurelien Barrau](https://www.youtube.com/watch?v=H4wjc4FHpNY&feature=youtu.be)
