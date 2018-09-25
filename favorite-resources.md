@@ -19,7 +19,11 @@ TODO -> déplacer dans un blog post
 
 ## Architecture
 
-* [Être architecte logiciel en 2018 (C. Martraire, A. Loyer)](https://www.youtube.com/watch?v=1igv2rHGKfo)
+* [Être architecte logiciel en 2018 - Cyrille Martraire, Arnauld Loyer)](https://www.youtube.com/watch?v=1igv2rHGKfo)
+
+## Software Craftsmanship
+
+* [Livable code - Sarah Mei](https://www.youtube.com/watch?v=8_UoDmJi7U8)
 
 # Ecology
 
