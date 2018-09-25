@@ -34,7 +34,7 @@ Here with `${simple.map}`, `@Value` gets the following String from the property 
 Then, it is evaluated as if it was inlined 
 
 ```
-    @Value("&#35;{ { 'KEY1': 'value1', 'KEY2': 'value3', 'KEY3': 'value5'} }")
+    @Value("#{ { 'KEY1': 'value1', 'KEY2': 'value3', 'KEY3': 'value5'} }")
 ```
 
 You can learn more in [the official documentation](https://docs.spring.io/spring/docs/4.3.10.RELEASE/spring-framework-reference/html/expressions.html#expressions-inline-lists)
