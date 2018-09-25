@@ -25,6 +25,6 @@ TODO -> déplacer dans un blog post
 
 * [Livable code - Sarah Mei](https://www.youtube.com/watch?v=8_UoDmJi7U8)
 
-# Ecology
+## Ecology
 
 * [Ecologie et nouveau pacte avec le vivant : Aurelien Barrau](https://www.youtube.com/watch?v=H4wjc4FHpNY&feature=youtu.be)
