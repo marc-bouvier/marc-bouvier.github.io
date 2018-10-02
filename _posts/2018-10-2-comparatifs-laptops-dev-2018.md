@@ -82,6 +82,6 @@
   </tbody>
 </table>
 
-TODO : https://www.materiel.net/produit/201802150043.html
+TODO : [Gigabyte AERO 15W V8 B544W10P-FR](https://www.materiel.net/produit/201802150043.html) (environs 2200€ le 2 octobre)
 
 Black friday : 23 novembre
