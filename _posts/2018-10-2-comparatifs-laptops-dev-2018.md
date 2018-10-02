@@ -1,4 +1,4 @@
-<table style="margin-left: -21em;margin-right: -21em;">
+<table style="margin-left: -21em;margin-right: -21em; font-size: 0.8rem">
   <thead>
     <tr>
       <th>Modèle</th>
