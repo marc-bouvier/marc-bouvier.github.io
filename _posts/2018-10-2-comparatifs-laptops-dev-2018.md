@@ -40,9 +40,11 @@
           <li>Couverture des dommages accidentels : Non</li>
         </ul>
         </td>
-      <td><ul>
-        <li>SAVE10 (10% fin 3 oct) -249,86€</li>
-        <li>Livraison gratuite pour tous nos modèles Inspiron et XPS. (fin 30 oct)</ul>
+      <td>
+        <ul>
+          <li>SAVE10 (10% fin 3 oct) -249,86€</li>
+          <li>Livraison gratuite (fin 30 oct)</li>
+        </ul>
       </td>
     </tr>
   </tbody>
