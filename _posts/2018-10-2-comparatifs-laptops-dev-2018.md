@@ -83,3 +83,5 @@
 </table>
 
 TODO : https://www.materiel.net/produit/201802150043.html
+
+Black friday : 23 novembre
