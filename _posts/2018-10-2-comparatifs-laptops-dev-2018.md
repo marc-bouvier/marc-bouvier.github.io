@@ -1,4 +1,4 @@
-<table style="margin-left: -21em;margin-right: -21em; font-size: 0.8rem">
+<table style="margin-left: -29em;margin-right: -29em; font-size: 0.8rem">
   <thead>
     <tr>
       <th>Modèle</th>
@@ -18,7 +18,7 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr style="background-color: #F0F0F0">
       <th>
         <a href="https://www.dell.com/fr-fr/shop/laptops/nouveau-syst%C3%A8me-2-en-1-15/spd/xps-15-9575-2-in-1-laptop">XPS 15 2-en-1</a>
       </th>
