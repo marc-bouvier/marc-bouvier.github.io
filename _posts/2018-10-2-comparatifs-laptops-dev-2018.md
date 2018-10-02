@@ -13,6 +13,7 @@
       <th>Carte graphique</th>
       <th>Port écran</th>
       <th>Thunderbolt</th>
+      <th>Garantie</th>
       <th>Coupons</th>
     </tr>
   </thead>
@@ -27,12 +28,22 @@
       <td>16 Go DDR4 2 400 MHz</td>
       <td>Intel® Core™ i7-8705G de 8e génération</td>
       <td>Écran 15,6" 4K Ultra HD (3 840 x 2 160) InfinityEdge antireflet tactile</td>
-      <td>mini : 1799,11 € TTC sans livraison</td>
+      <td>2 499,11 € livraison gratuite</td>
       <td>Windows 10 Famille 64 bits</td>
       <td>Radeon™ RX Vega M GL avec 4 Go HBM2</td>
       <td>DisplayPort</td>
       <td>2x Thunderbolt 3 (4x PCI 3e génération)</td>
-      <td>SAVE10 (10% fin 3 oct)</td>
+      <td>
+        <ul>
+          <li>Service étendu pour la batterie : Non</li>
+          <li>Support : 1 an Premium Support avec intervention sur site</li>
+          <li>Couverture des dommages accidentels : Non</li>
+        </ul>
+        </td>
+      <td><ul>
+        <li>SAVE10 (10% fin 3 oct) -249,86€</li>
+        <li>Livraison gratuite pour tous nos modèles Inspiron et XPS. (fin 30 oct)</ul>
+      </td>
     </tr>
   </tbody>
 </table>
