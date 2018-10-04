@@ -50,7 +50,7 @@
     </tr>
     <tr style="background-color: #F5F5F5">
       <th>
-        <a href="">XPS 15</a>
+        <a href="https://www.dell.com/fr-fr/shop/ordinateurs-portables-dell/xps-15/spd/xps-15-9570-laptop/cnx97014">XPS 15</a>
       </th>
       <td>2&nbsp;721,62 € livraison gratuite</td>
       <td>Batterie intégrée à 6 cellules 97 Wh</td>
