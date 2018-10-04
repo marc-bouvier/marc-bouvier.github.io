@@ -28,3 +28,7 @@ TODO -> déplacer dans un blog post
 ## Ecology
 
 * [Ecologie et nouveau pacte avec le vivant : Aurelien Barrau](https://www.youtube.com/watch?v=H4wjc4FHpNY&feature=youtu.be)
+
+## Career
+
+* [The long road - Sandro Mancuso](https://marc-bouvier.github.io/2018/10/04/sandro-mancuso-the-long-road/)
