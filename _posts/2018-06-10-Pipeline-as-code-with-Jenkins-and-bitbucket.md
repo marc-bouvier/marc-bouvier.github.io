@@ -4,8 +4,8 @@ tags: French How-To Jenkins Continuous-Integration Version-Control Bitbucket
 Mise en place de pipelines multibranches avec Jenkins et Bitbucket.
 
 Précedemment : 
-* [Installation de Bitbucket avec Docker](2018/06/06/pipeline-as-code-1-bitbucket/)
-* [Installation de Jenkins avec Docker](2018/06/06/install-jenkins-with-docker/)
+* [Installation de Bitbucket avec Docker](/2018/06/06/pipeline-as-code-1-bitbucket/)
+* [Installation de Jenkins avec Docker](/2018/06/06/install-jenkins-with-docker/)
 
 Slides : [Pipelines d'intégration continue avec Jenkis Bitbucket et Sonar](https://slides.com/marcbouvier/jenkins-2-bitbucket#/)
 
