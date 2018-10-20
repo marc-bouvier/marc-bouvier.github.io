@@ -4,10 +4,13 @@ tags: How-To Docker Bitbucket French
 ---
 Installation de Bitbucket Server avec Docker.
 
-Précedemment : 
-* [Installation de Bitbucket avec Docker](/2018/06/06/pipeline-as-code-1-bitbucket/)
-La suite : 
-* [Pipeline as code avec Jenkins et Bitbucket](/2018/06/10/Pipeline-as-code-with-Jenkins-and-bitbucket/)
+La série d'articles
+* [Installation de Jenkins avec Docker](/2018/06/06/install-jenkins-with-docker/)
+* Installation de Bitbucket avec Docker
+* [Pipeline As Code avec Jenkins et Bitbucket](/2018/06/10/Pipeline-as-code-with-Jenkins-and-bitbucket/)
+
+Slides : [Pipelines d'intégration continue avec Jenkis Bitbucket et Sonar](https://slides.com/marcbouvier/jenkins-2-bitbucket#/)
+
 
 Mettre en place bitbucket avec docker
 
