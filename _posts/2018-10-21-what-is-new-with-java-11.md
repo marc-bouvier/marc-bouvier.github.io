@@ -1,7 +1,9 @@
 ---
 tags: Java ChangeLog LTS Licensing News
 ---
+
 Java 11 has been released for general use in september 2018. Let's see what changed in this version.
+
 ## New release schedule
 
 Since Java 9, Java is released at a 6 month frequency. With a LTS version 
