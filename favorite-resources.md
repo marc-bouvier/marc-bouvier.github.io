@@ -15,7 +15,9 @@ TODO -> déplacer dans un blog post
 * [Is TDD dead? (Part II) - DHH, Kent Beck, Martin Fowler](https://www.youtube.com/watch?v=JoTB2mcjU7w)
 * [Test induced damage Gist - DHH](https://gist.github.com/dhh/4849a20d2ba89b34b201)
 
+## UX Design & Accessibility
 
+* [Why We Never Get to Web Accessibility 102 - Liz Certa](https://www.youtube.com/watch?v=gE8S4cUJFUo)
 
 ## Architecture
 
