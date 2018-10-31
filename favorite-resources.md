@@ -34,3 +34,7 @@ TODO -> déplacer dans un blog post
 ## Career
 
 * [The long road - Sandro Mancuso](https://marc-bouvier.github.io/2018/10/04/sandro-mancuso-the-long-road/)
+
+## Company culture
+
+* [Patterns of Effective Teams - Dan North](https://www.youtube.com/watch?v=lvs7VEsQzKY)
