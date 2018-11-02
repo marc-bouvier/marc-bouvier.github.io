@@ -24,6 +24,57 @@ Taille des ronds : effort requis
 
 Eiseinhower chart: Urgent and important problems.
 
+<table>
+ <thead>
+  <tr>
+   <th></th>
+   <th>Urgent</th>
+   <th>Not urgent</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <th>Important</th>
+   <td>
+   Quadrant of necessity 
+    <ul>
+     <li>Pressing problems</li>
+     <li>Deadline-driven items</li>
+     <li>Crisis/emergencies</li>
+    </ul>
+   </td>
+   <td>
+    Quadrant of quality & personal leadership 
+    <ul>
+     <li>Planning/preparation</li>
+     <li>Deadline-driven items</li>
+     <li>Self-improvement</li>
+    </ul>
+   </td>
+  </tr>
+  <tr>
+   <th>Not important</th>
+    <td>
+     Quadrant of deception 
+     <ul> 
+      <li>Interruptions</li>
+      <li>Meetings</li>
+      <li>Emails</li>
+      <li>Requests</li>
+     </ul>
+    </td>
+    <td>
+    Quadrant of waste 
+     <ul> 
+      <li>TV</li> 
+      <li>Social media</li>
+      <li>Reddit</li>
+     </ul>
+   </td>
+  </tr>
+ </tbody>
+</table>
+
 |               | Urgent                                                                                                                | Not urgent                                                                                                                                  |
 |---------------|-----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
 | Important     | Quadrant of necessity <ul><li>Pressing problems</li> <li>Deadline-driven items</li> <li>Crisis/emergencies</li> </ul> | Quadrant of quality & personal leadership <ul> <li>Planning/preparation</li> <li>Deadline-driven items</li> <li>Self-improvement</li> </ul> |
