@@ -75,11 +75,6 @@ Eiseinhower chart: Urgent and important problems.
  </tbody>
 </table>
 
-|               | Urgent                                                                                                                | Not urgent                                                                                                                                  |
-|---------------|-----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-| Important     | Quadrant of necessity <ul><li>Pressing problems</li> <li>Deadline-driven items</li> <li>Crisis/emergencies</li> </ul> | Quadrant of quality & personal leadership <ul> <li>Planning/preparation</li> <li>Deadline-driven items</li> <li>Self-improvement</li> </ul> |
-| Not important | Quadrant of deception <ul> <li>Interruptions</li> <li>Meetings</li> <li>Emails</li> <li>Requests</li> </ul>           | Quadrant of waste <ul> <li>TV</li> <li>Social media</li> <li>Reddit</li> </ul>                                                              |
-
 > Eat a live frog first thing in the morning and nothing worse will happen to you the rest of the day
 
 > Mark Twain
