@@ -200,9 +200,12 @@ Sur une autre feuille A4, divisée en 6 cases. On nous a proposé de choisir une
 
 Ensuite, parmi les 6 variations, nous en avons choisi une et l'avons décrite sur une feuille A4 en 3 étapes (3 post-it larges). Le titre doit être "catchy" pour donner envie de le lire.
 
-![Schéma illustrant 3 étapes sur une feuille A4](/assets/2018-11-22-positive-design-days/story-board-2.jpg)
+![Schéma illustrant 3 étapes sur une feuille A4](/assets/2018-11-22-positive-design-days/story-board-2.png)
 
- 
+Ensuite nous avons affiché les solutions de chacun comme dans un musée, les unes à côté des autres.
+
+[Affiche avec le bateau, et, à sa droite les feuilles des solutions de chacun affichées.](/assets/2018-11-22-positive-design-days/story-board-2-vote.png)
+
 ## Jour 3 : décider
 
 Choisir la solution 
