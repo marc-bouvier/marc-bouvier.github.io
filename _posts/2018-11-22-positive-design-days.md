@@ -6,7 +6,7 @@ Présenté par l'antenne Alsace de l'association FLUPA. Les organisateurs sont d
 * post-it larges
 * post-it carrés
 * feuilles A4 vierges
-* plein de sharpies (bleu, rouge, vert, noir)
+* plein de marqueurs (bleu, rouge, vert, noir)
 * stylos
 
 Questionnaire avec une gommette de couleur (jaune pour moi) qui m'a permis de rejoindre l'équipe jaune.
@@ -26,9 +26,12 @@ La technique du Design Sprint est prévue pour addresser des situation telles qu
 * des objectifs pas clairs, qui peuvent changer au cours du temps
 * les équipes manquent de données, ce qui entraîne des réunions sans fin
 * il y a une pression à l'innovation, mais on ne sait pas par où commencer
-* longs cycles de développement de produit -> perte d'entrhousiasme
+* longs cycles de développement de produit -> perte d'enthousiasme
 
 Design Sprint s'inspire entre autres de Design Thinking et de Lean Startup pour condenser en 5 jours de collaboration l'émergence d'une idée à son prototypage.
+
+![/assets/2018-11-22-positive-design-days/1234-construire-lancer-apprendre-idee.png]()
+
 
 ## Les valeurs
 
@@ -94,11 +97,15 @@ La seconde, par le don d'une anecdote permet également l'ouverture aux autres e
 
 La technique se décompose en 5 journées ayant chacune une thématique
 
+![/assets/2018-11-22-positive-design-days/5-days-summary.png](Résumé des thèmes des 5 jours de Design Sprint)
+
 * Jour 1 : comprendre
 * Jour 2 : esquisser
 * Jour 3 : décider
 * Jour 4 : prototyper
 * Jour 5 : tester
+
+
 
 ## Jour 1 : comprendre
 
@@ -117,12 +124,13 @@ Dans le cadre de l'atelier, nous avions un sujet sur lequel réfléchir.
 
 > Organiser le repas de noël avec sa famille et sa belle famille
 
-
 Pour cette étape les facilitateurs ont choisi d'utiliser un outil d'innovation agile : [speed boat](http://coach-agile.com/speed-boat/)
 
 ### 1 - Qu'est-ce qui se passe bien?
 
 Sur un mur une grande feuille blanche avec un bateau voguant sur la mer dessiné dessus. La voile et l'avant du bateau symbolise ce qui fait avancer et qui est positif. L'ancre et le dessous du niveau de l'eau symbolise ce qui freine et ce qui est négatif.
+
+![/assets/2018-11-22-positive-design-days/speed-boat.png](Feuille avec un bateau à voile dessiné au centre, la voile est dirigée vers la droite. Le bateau vogue au dessus de l'eau et une ancre est attachée par une chaine au bateau. L'ancre est située en bas à gauche du dessin. Des post-it sont positionnés sur la voile, il y est indiqué "Ce qui fait avancer (le positif)". D'autres post-it sont placés du côté de l'ancre, il y est indiqué "Ce qui freine (le négatif)" )
 
 Pour répondre à cette question une contrainte a été posée:
 * timebox : 4min
@@ -130,6 +138,8 @@ Pour répondre à cette question une contrainte a été posée:
 * 1 idée par post-it
 
 Ensuite chaque personne explique ses idées en les positionnant sur la voile.
+
+![/assets/2018-11-22-positive-design-days/boat.jpg](Photo du bateau sur une feuille attachée au mur avec les post-it sur la voile et sous l'eau. Certains post-it sont isolés, ils représentent les problèmes majeurs identifiés et hierarchisés)
 
 ex. "Les cadeaux", "L'entraide", "Le bon repas" ...
 
@@ -145,13 +155,15 @@ On remarque que beaucoup des idées négatives sont les pendants d'idées positi
 
 ### 3 - prioriser les problèmes
 
-Une fois les problèmes identifiés on demande à chaque participant de voter pour les problèmes qui leur semblent les plus importants. Dans le cadre de l'atelier il s'agissait de positionner une ou plusieurs gommettes sur les post-it de problèmes (avec une réserve de 3 gomettes)
+Une fois les problèmes identifiés on demande à chaque participant de voter pour les problèmes qui leur semblent les plus importants. Dans le cadre de l'atelier il s'agissait de positionner une ou plusieurs gommettes sur les post-it de problèmes (avec une réserve de 3 gommettes)
 
 ex. 
 * Souvenirs gênants (3)
 * Mauvaise entente (2)
 * Repas brulé (2)
 * Ranger si tout le monde est parti (2)
+
+![/assets/2018-11-22-positive-design-days/boat-vote-detail.jpg](Photo illustrant les votes sur les problèmes identifiés. Les problèmes les plus iomportants disposent du plus grand nombre de gomettes collées dessus)
 
 ### 4 - reformuler de manière positive
 
