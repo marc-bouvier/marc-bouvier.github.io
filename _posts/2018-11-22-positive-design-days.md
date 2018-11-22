@@ -1,3 +1,6 @@
+---
+tags: UX Design Lean-Startup Innovation
+---
 ![Résumé des 5 jours de Design Sprint](/assets/2018-11-22-positive-design-days/5-days-summary.png)
 
 
