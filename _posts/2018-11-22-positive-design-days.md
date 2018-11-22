@@ -97,7 +97,7 @@ La seconde, par le don d'une anecdote permet également l'ouverture aux autres e
 
 La technique se décompose en 5 journées ayant chacune une thématique
 
-![/assets/2018-11-22-positive-design-days/5-days-summary.png](Résumé des thèmes des 5 jours de Design Sprint)
+![Résumé des thèmes des 5 jours de Design Sprint](/assets/2018-11-22-positive-design-days/5-days-summary.png)
 
 * Jour 1 : comprendre
 * Jour 2 : esquisser
@@ -130,7 +130,7 @@ Pour cette étape les facilitateurs ont choisi d'utiliser un outil d'innovation 
 
 Sur un mur une grande feuille blanche avec un bateau voguant sur la mer dessiné dessus. La voile et l'avant du bateau symbolise ce qui fait avancer et qui est positif. L'ancre et le dessous du niveau de l'eau symbolise ce qui freine et ce qui est négatif.
 
-![/assets/2018-11-22-positive-design-days/speed-boat.png](Feuille avec un bateau à voile dessiné au centre, la voile est dirigée vers la droite. Le bateau vogue au dessus de l'eau et une ancre est attachée par une chaine au bateau. L'ancre est située en bas à gauche du dessin. Des post-it sont positionnés sur la voile, il y est indiqué "Ce qui fait avancer (le positif)". D'autres post-it sont placés du côté de l'ancre, il y est indiqué "Ce qui freine (le négatif)" )
+![Feuille avec un bateau à voile dessiné au centre, la voile est dirigée vers la droite. Le bateau vogue au dessus de l'eau et une ancre est attachée par une chaine au bateau. L'ancre est située en bas à gauche du dessin. Des post-it sont positionnés sur la voile, il y est indiqué "Ce qui fait avancer (le positif)". D'autres post-it sont placés du côté de l'ancre, il y est indiqué "Ce qui freine (le négatif)"](/assets/2018-11-22-positive-design-days/speed-boat.png)
 
 Pour répondre à cette question une contrainte a été posée:
 * timebox : 4min
@@ -139,7 +139,7 @@ Pour répondre à cette question une contrainte a été posée:
 
 Ensuite chaque personne explique ses idées en les positionnant sur la voile.
 
-![/assets/2018-11-22-positive-design-days/boat.jpg](Photo du bateau sur une feuille attachée au mur avec les post-it sur la voile et sous l'eau. Certains post-it sont isolés, ils représentent les problèmes majeurs identifiés et hierarchisés)
+![Photo du bateau sur une feuille attachée au mur avec les post-it sur la voile et sous l'eau. Certains post-it sont isolés, ils représentent les problèmes majeurs identifiés et hierarchisés](/assets/2018-11-22-positive-design-days/boat.jpg)
 
 ex. "Les cadeaux", "L'entraide", "Le bon repas" ...
 
@@ -163,7 +163,7 @@ ex.
 * Repas brulé (2)
 * Ranger si tout le monde est parti (2)
 
-![/assets/2018-11-22-positive-design-days/boat-vote-detail.jpg](Photo illustrant les votes sur les problèmes identifiés. Les problèmes les plus iomportants disposent du plus grand nombre de gomettes collées dessus)
+![Photo illustrant les votes sur les problèmes identifiés. Les problèmes les plus iomportants disposent du plus grand nombre de gomettes collées dessus](/assets/2018-11-22-positive-design-days/boat-vote-detail.jpg)
 
 ### 4 - reformuler de manière positive
 
