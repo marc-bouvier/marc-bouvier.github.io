@@ -229,7 +229,7 @@ Nous avons terminé en faisant le pitch de notre solution aux autres groupes.
 ![3ème étape](/assets/2018-11-22-positive-design-days/step-3.jpg)
 ![4ème étape](/assets/2018-11-22-positive-design-days/step-4.jpg)
 ![5ème étape](/assets/2018-11-22-positive-design-days/step-5.jpg)
-![6ème étape](/assets/2018-11-22-positive-design-days/step-1.jpg)
+![6ème étape](/assets/2018-11-22-positive-design-days/step-6.jpg)
 
 ![](/assets/2018-11-22-positive-design-days/final-result.jpg)
 
