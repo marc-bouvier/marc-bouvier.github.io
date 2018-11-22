@@ -30,7 +30,7 @@ La technique du Design Sprint est prévue pour addresser des situation telles qu
 
 Design Sprint s'inspire entre autres de Design Thinking et de Lean Startup pour condenser en 5 jours de collaboration l'émergence d'une idée à son prototypage.
 
-![/assets/2018-11-22-positive-design-days/1234-construire-lancer-apprendre-idee.png]()
+![Boucle : (1) Idée -> (2) Construire -> (3) lancer -> (4) apprendre. La bulle (1) idée est également reliée dans l'autre sens avec (4) apprendre](/assets/2018-11-22-positive-design-days/1234-construire-lancer-apprendre-idee.png)
 
 
 ## Les valeurs
@@ -115,11 +115,6 @@ La technique se décompose en 5 journées ayant chacune une thématique
 * Quels sont les problèmes
 * Travailler sur les problèmes critiques
 
-
-Individuellement
-
-En groupe
-
 Dans le cadre de l'atelier, nous avions un sujet sur lequel réfléchir. 
 
 > Organiser le repas de noël avec sa famille et sa belle famille
@@ -186,13 +181,28 @@ Pour notre groupe, ça donnait ceci :
   * exprimer sa vision
 * équipe pluri-disciplinaire
 * 5 utilisateurs -> 85% des problèmes identifiés
+* Ne pas hésiter à exprimer visuellement ses idées par des dessins
 
 > Comment pourrait-on s'assurer que l'ambiance soit bonne toute la soirée?
 
 ### 1 - noter des idées de solutions
+Imaginer des solutions.
 
-sur feuille A4 (chacun pour soi)
+Sur une feuille A4 chaqu'un a noté des idées de solutions pour répondre à la problématique.
 
+![Photo d'un exemple d'idées notées sous forme de dessins et de texte](/assets/2018-11-22-positive-design-days/d2-idees-en-vrac.jpg)
+
+Sur une autre feuille A4, divisée en 6 cases. On nous a proposé de choisir une ou 2 des idées les plus prometteuses et d'en imaginer des variations. 
+
+![Exemple d'une page avec 6 variantes d'idées similaires](/assets/2018-11-22-positive-design-days/6-variantes-idee.jpg)
+
+* Nous avons eu la contrainte de trouver 1 variation de l'idée par minute.
+
+Ensuite, parmi les 6 variations, nous en avons choisi une et l'avons décrite sur une feuille A4 en 3 étapes (3 post-it larges). Le titre doit être "catchy" pour donner envie de le lire.
+
+![Schéma illustrant 3 étapes sur une feuille A4](/assets/2018-11-22-positive-design-days/story-board-2.jpg)
+
+ 
 ## Jour 3 : décider
 
 Choisir la solution 
