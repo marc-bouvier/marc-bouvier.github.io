@@ -1,4 +1,5 @@
-# Positive Design Days 2018
+![](2018-11-22-positive-design-days/5-days-summary.png)
+
 
 Présenté par l'antenne Alsace de l'association FLUPA. Les organisateurs sont de [Impact Positif](todo : url). C'était également l'inauguration de l'antenne Alsace de FLUPA.
 
