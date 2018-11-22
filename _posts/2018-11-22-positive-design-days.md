@@ -105,7 +105,7 @@ La technique se décompose en 5 journées ayant chacune une thématique
 * Jour 4 : prototyper
 * Jour 5 : tester
 
-
+Design Sprint requiert d'avoir des personnes de compétences et rôles différents. Il est nécessaire qu'il y ait le décideur final (où un réprésentant ayant ce rôle), des techniciens, des personnes du métier, un facilitateur (extérieur si possible), des membres de l'équipe.
 
 ## Jour 1 : comprendre
 
@@ -114,6 +114,8 @@ La technique se décompose en 5 journées ayant chacune une thématique
 * Etapes pour atteindre l'objectif
 * Quels sont les problèmes
 * Travailler sur les problèmes critiques
+
+Le 1er jour se déroule en général accompagné d'experts.
 
 Dans le cadre de l'atelier, nous avions un sujet sur lequel réfléchir. 
 
@@ -204,6 +206,12 @@ Ensuite, parmi les 8 variations, nous en avons choisi une et l'avons décrite su
 
 ** HIGH 5 DE GROUPE ! **
 
+## Jour 3 : décider
+
+Choisir la solution 
+* storyboard : étapes pour réaliser la solution
+* étapes d'utilisation par l'utilisateur
+
 Ensuite nous avons affiché les solutions de chacun comme dans un musée, les unes à côté des autres.
 
 Nous avons pitché chacun notre tour les solutions et le facilitateur a ajouté des précisions et références pour en améliorer la compréhension si besoin.
@@ -222,6 +230,8 @@ Nous avons affiché les étapes de chacun et rassemblé celles qui étaient simi
 
 Nous avons enfin reformulé les 6 étapes sous forme de nouveaux post-it correspondant au résultat final.
 
+** HIGH FIVE DE GROUPE !! *
+
 Nous avons terminé en faisant le pitch de notre solution aux autres groupes.
 
 ![1ère étape](/assets/2018-11-22-positive-design-days/step-1.jpg)
@@ -233,13 +243,9 @@ Nous avons terminé en faisant le pitch de notre solution aux autres groupes.
 
 ![](/assets/2018-11-22-positive-design-days/final-result.jpg)
 
-## Jour 3 : décider
-
-Choisir la solution 
-* storyboard : étapes pour réaliser la solution
-* étapes d'utilisation par l'utilisateur
-
 ## Jour 4 : prototyper
+
+Nous n'avons pas eu l'opportunité de simuler les jours 4 et 5 lors du workshop. En voici néanmois les moyens et objectifs.
 
 * visuels
 * pas de code
@@ -251,8 +257,9 @@ Choisir la solution
 
 Par 5 utilisateurs. Peut permettre de détecter 85% des problèmes.
 
+## Ressources utiles
 
-
-Individuellement
-
-En groupe
+* [Sprint - How to solve big problems and test new ideas in just 5 days - Jake knapp](https://www.thesprintbook.com/)
+* [Design Thinking](https://fr.wikipedia.org/wiki/Design_Thinking)
+* [Lean Startup](https://fr.wikipedia.org/wiki/Lean_startup)
+* [The design of everyday things](https://www.amazon.fr/Design-Everyday-Things-Revised-Expanded/dp/0465050654)
