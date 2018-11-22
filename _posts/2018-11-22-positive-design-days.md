@@ -48,9 +48,13 @@ Design Sprint peut permettre de
 * réfléchir à un modèle d'entreprise
 
 -> éviter les discussions interminables de réunion
+
 -> testé
+
 -> réduire le risque
+
 -> base pour créer le produit et le mettre sur le marché
+
 
 Illustration par un atelier
 
@@ -72,8 +76,11 @@ Les organisateurs de l'événement ont imaginé un stratagème pour briser la gl
 Dans un temps limité, chaque personne devait se présenter selon le modèle suivant
 
 > Je m'appelle ___________
+>
 > Je suis ________________
+>
 > Je me sens _____________ (en utilisant un adjectif commençant par la première lettre de son prénom)
+>
 > Mon pire souvenir de fêtes de fin d'année était ______________________________
 
 Cela a eu plusieurs effets selon-moi, en particulier les 2 dernières phrase de présentation.
