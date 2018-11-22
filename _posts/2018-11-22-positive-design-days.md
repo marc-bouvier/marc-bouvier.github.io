@@ -206,13 +206,32 @@ Ensuite, parmi les 8 variations, nous en avons choisi une et l'avons décrite su
 
 Ensuite nous avons affiché les solutions de chacun comme dans un musée, les unes à côté des autres.
 
-[Affiche avec le bateau, et, à sa droite les feuilles des solutions de chacun affichées.](/assets/2018-11-22-positive-design-days/story-board-2-vote.png)
-
 Nous avons pitché chacun notre tour les solutions et le facilitateur a ajouté des précisions et références pour en améliorer la compréhension si besoin.
 
 Nous avons ensuite choisi quelle solution allait être choisie en disposant 6 gommette chacun sur les propositions qui nous semblaient prometteuses. Cela en se posant la question : "qu'est ce qui fait avancer le plus l'objectif?"
 
+![Affiche avec le bateau, et, à sa droite les feuilles des solutions de chacun affichées.](/assets/2018-11-22-positive-design-days/story-board-2-vote.png)
 
+Enfin, une fois une solution trouvée, nous avons déterminé chacun quelles étaient les 6 étapes nécessaires pour réaliser la solution.
+
+![](/assets/2018-11-22-positive-design-days/6-steps-to-solution.png)
+
+Pour ce faire, les facilitateurs nous ont recommandé de d'abord remplir la première étape (contexte) puis la dernière (objectif atteint). Ainsi il était plus facile de trouver les étapes intermédiaires.
+
+Nous avons affiché les étapes de chacun et rassemblé celles qui étaient similaires. Nous avons ensuite choisi pour chaque étapes celle(s) qui étaient les plus pertinente. Cela nous a amené à un plan en 6 étapes où tout le groupe sera intervenu individuellement puis collectivement. 
+
+Nous avons enfin reformulé les 6 étapes sous forme de nouveaux post-it correspondant au résultat final.
+
+Nous avons terminé en faisant le pitch de notre solution aux autres groupes.
+
+![1ère étape](/assets/2018-11-22-positive-design-days/step-1.jpg)
+![2ème étape](/assets/2018-11-22-positive-design-days/step-2.jpg)
+![3ème étape](/assets/2018-11-22-positive-design-days/step-3.jpg)
+![4ème étape](/assets/2018-11-22-positive-design-days/step-4.jpg)
+![5ème étape](/assets/2018-11-22-positive-design-days/step-5.jpg)
+![6ème étape](/assets/2018-11-22-positive-design-days/step-1.jpg)
+
+![](/assets/2018-11-22-positive-design-days/final-result.jpg)
 
 ## Jour 3 : décider
 
