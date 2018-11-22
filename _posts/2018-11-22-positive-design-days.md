@@ -198,13 +198,21 @@ Sur une autre feuille A4, divisée en 6 cases. On nous a proposé de choisir une
 
 * Nous avons eu la contrainte de trouver 1 variation de l'idée par minute.
 
-Ensuite, parmi les 6 variations, nous en avons choisi une et l'avons décrite sur une feuille A4 en 3 étapes (3 post-it larges). Le titre doit être "catchy" pour donner envie de le lire.
+Ensuite, parmi les 8 variations, nous en avons choisi une et l'avons décrite sur une feuille A4 en 3 étapes (3 post-it larges). Le titre doit être "catchy" pour donner envie de le lire.
 
 ![Schéma illustrant 3 étapes sur une feuille A4](/assets/2018-11-22-positive-design-days/story-board-2.png)
+
+** HIGH 5 DE GROUPE ! **
 
 Ensuite nous avons affiché les solutions de chacun comme dans un musée, les unes à côté des autres.
 
 [Affiche avec le bateau, et, à sa droite les feuilles des solutions de chacun affichées.](/assets/2018-11-22-positive-design-days/story-board-2-vote.png)
+
+Nous avons pitché chacun notre tour les solutions et le facilitateur a ajouté des précisions et références pour en améliorer la compréhension si besoin.
+
+Nous avons ensuite choisi quelle solution allait être choisie en disposant 6 gommette chacun sur les propositions qui nous semblaient prometteuses. Cela en se posant la question : "qu'est ce qui fait avancer le plus l'objectif?"
+
+
 
 ## Jour 3 : décider
 
