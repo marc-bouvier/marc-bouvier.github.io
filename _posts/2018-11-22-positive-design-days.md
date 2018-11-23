@@ -236,13 +236,12 @@ Nous avons enfin reformulé les 6 étapes sous forme de nouveaux post-it corresp
 ** HIGH FIVE DE GROUPE !! *
 
 Nous avons terminé en faisant le pitch de notre solution aux autres groupes.
-
-![1ère étape](/assets/2018-11-22-positive-design-days/step-1.jpg)
-![2ème étape](/assets/2018-11-22-positive-design-days/step-2.jpg)
-![3ème étape](/assets/2018-11-22-positive-design-days/step-3.png)
-![4ème étape](/assets/2018-11-22-positive-design-days/step-4.jpg)
-![5ème étape](/assets/2018-11-22-positive-design-days/step-5.jpg)
-![6ème étape](/assets/2018-11-22-positive-design-days/step-6.jpg)
+<img alt="1ère étape" src="/assets/2018-11-22-positive-design-days/step-1.jpg" width="250px"/>
+<img alt="2ème étape" src="/assets/2018-11-22-positive-design-days/step-2.jpg" width="250px"/>
+<img alt="3ème étape" src="/assets/2018-11-22-positive-design-days/step-3.png" width="250px"/>
+<img alt="4ème étape" src="/assets/2018-11-22-positive-design-days/step-4.jpg" width="250px"/>
+<img alt="5ème étape" src="/assets/2018-11-22-positive-design-days/step-5.jpg" width="250px"/>
+<img alt="6ème étape" src="/assets/2018-11-22-positive-design-days/step-6.jpg" width="250px"/>
 
 ![](/assets/2018-11-22-positive-design-days/final-result.jpg)
 
