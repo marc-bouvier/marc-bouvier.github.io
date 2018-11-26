@@ -38,3 +38,7 @@ TODO -> déplacer dans un blog post
 ## Company culture
 
 * [Patterns of Effective Teams - Dan North](https://www.youtube.com/watch?v=lvs7VEsQzKY)
+
+## DDD & Event Sourcing
+
+* [Event Sourcing You are doing it wrong by David Schmitz](https://www.youtube.com/watch?v=GzrZworHpIk)
