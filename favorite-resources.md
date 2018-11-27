@@ -22,6 +22,7 @@ TODO -> déplacer dans un blog post
 ## Architecture
 
 * [Être architecte logiciel en 2018 - Cyrille Martraire, Arnauld Loyer](https://www.youtube.com/watch?v=1igv2rHGKfo)
+* [Opening Keynote: Greg Young - Stop Over-Engenering](https://www.youtube.com/watch?v=GRr4xeMn1uU)
 
 ## Software Craftsmanship
 
