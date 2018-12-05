@@ -23,6 +23,7 @@ TODO -> déplacer dans un blog post
 
 * [Être architecte logiciel en 2018 - Cyrille Martraire, Arnauld Loyer](https://www.youtube.com/watch?v=1igv2rHGKfo)
 * [Opening Keynote: Greg Young - Stop Over-Engenering](https://www.youtube.com/watch?v=GRr4xeMn1uU)
+* [GOTO 2018 • Modular Monoliths • Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE)
 
 ## Software Craftsmanship
 
