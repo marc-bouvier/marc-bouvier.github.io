@@ -1,11 +1,22 @@
 ---
 tags : Java JUnit
 ---
+A practical hamcrest matcher `closeTo` to know if a date is close to another (of the same type). Supports `java.util.Date`, `java.time.LocalDateTime`, `java.time.ZonedDateTime`, `java.time.OffsetDataTime`. No dependencies other than hamcrest.
 
+Usage
+
+```
+// default tolerance is 2 minutes
+assertThat(someOffsetDateTime, is(closeTo(OffsetDateTime.now())));
+
+// you can choose tolerance
+assertThat(someOffsetDateTime, is(closeTo(OffsetDateTime.now(),1)));
+```
+
+Code of the matcher
 
 ```java
 
-import org.apache.commons.lang3.time.DateUtils;
 import org.hamcrest.BaseMatcher;
 import org.hamcrest.Description;
 import org.hamcrest.Factory;
@@ -14,6 +25,7 @@ import org.hamcrest.Matcher;
 import java.time.LocalDateTime;
 import java.time.OffsetDateTime;
 import java.time.ZonedDateTime;
+import java.util.Calendar;
 import java.util.Date;
 
 /**
@@ -56,11 +68,11 @@ public class IsCloseTo<T> extends BaseMatcher<T> {
 
             return justBefore.isBefore(actualTime) && justAfter.isAfter(actualTime);
         }
-        if (actual instanceof ZonedDateTime && expected instanceof ZonedDateTime ) {
-            final ZonedDateTime  expectedTime = (ZonedDateTime ) expected;
-            final ZonedDateTime  actualTime = (ZonedDateTime ) actual;
-            final ZonedDateTime  justBefore = expectedTime.minusMinutes(toleranceInMin);
-            final ZonedDateTime  justAfter = expectedTime.plusMinutes(toleranceInMin);
+        if (actual instanceof ZonedDateTime && expected instanceof ZonedDateTime) {
+            final ZonedDateTime expectedTime = (ZonedDateTime) expected;
+            final ZonedDateTime actualTime = (ZonedDateTime) actual;
+            final ZonedDateTime justBefore = expectedTime.minusMinutes(toleranceInMin);
+            final ZonedDateTime justAfter = expectedTime.plusMinutes(toleranceInMin);
 
             return justBefore.isBefore(actualTime) && justAfter.isAfter(actualTime);
         }
@@ -68,12 +80,31 @@ public class IsCloseTo<T> extends BaseMatcher<T> {
             final Date expectedTime = (Date) expected;
             final Date actualTime = (Date) actual;
 
-            final Date justBefore = DateUtils.addMinutes(expectedTime, -toleranceInMin);
-            final Date justAfter = DateUtils.addMinutes(expectedTime, toleranceInMin);
+            final int amount = -toleranceInMin;
+            final Date justBefore = add(expectedTime, Calendar.MINUTE, amount);
+            final Date justAfter = add(expectedTime, Calendar.MINUTE, toleranceInMin);
 
             return justBefore.compareTo(actualTime) < 0 && justAfter.compareTo(actualTime) > 0;
         }
         throw new IllegalArgumentException("Unsupported type(s) combination : actual : " + actual.getClass().getTypeName() + ", expected : " + expected.getClass().getTypeName());
+    }
+
+    private static Date add(final Date date, final int calendarField, final int amount) {
+        validateDateNotNull(date);
+        final Calendar c = Calendar.getInstance();
+        c.setTime(date);
+        c.add(calendarField, amount);
+        return c.getTime();
+    }
+
+    private static void validateDateNotNull(final Date date) {
+        isTrue(date != null, "The date must not be null");
+    }
+
+    public static void isTrue(final boolean expression, final String message, final Object... values) {
+        if (!expression) {
+            throw new IllegalArgumentException(String.format(message, values));
+        }
     }
 
     @Factory
