@@ -10,6 +10,7 @@ No plugins required.
 
 import glob
 import os
+import shutil
 
 post_dir = '_posts/'
 tag_dir = 'tag/'
@@ -36,12 +37,9 @@ for filename in filenames:
     f.close()
 total_tags = set(total_tags)
 
-old_tags = glob.glob(tag_dir + '*.md')
-for tag in old_tags:
-    os.remove(tag)
-    
-if not os.path.exists(tag_dir):
-    os.makedirs(tag_dir)
+shutil.rmtree(tag_dir)
+
+os.makedirs(tag_dir)
 
 for tag in total_tags:
     tag_filename = tag_dir + tag + '.md'

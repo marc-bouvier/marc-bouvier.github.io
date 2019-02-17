@@ -1,3 +1,6 @@
+---
+tags: Sonar How-To Docker
+---
 ```
 docker pull sonarqube:lts
 ```

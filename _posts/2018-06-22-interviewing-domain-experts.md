@@ -1,3 +1,6 @@
+---
+tags: Domain-Driven-Design Heuristics NewCrafts
+---
 <iframe src="https://player.vimeo.com/video/167722763" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 * Active listening
 * Note taking

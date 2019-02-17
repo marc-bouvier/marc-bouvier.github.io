@@ -2,8 +2,7 @@
 layout: post
 title: "Hackathon : one mob programming day (French)"
 date: 2018-02-15
-tags: Mob-Programming Agile Hackathon French
-published: false
+tags: Mob-Programming Agility Hackathon French
 ---
 
 Une journée en Mob programming
@@ -18,4 +17,4 @@ TLDR; Faire travailler toute une équipe sur une seule tâche
 - style Driver/Navigators
 
 Mob programming qu'est-ce que c'est?
-Un présentation très claire et complète par ici : http://blog.soat.fr/2014/05/le-mob-programming-presentation/
+Un présentation très claire et complète par ici : [http://blog.soat.fr/2014/05/le-mob-programming-presentation/](http://blog.soat.fr/2014/05/le-mob-programming-presentation/)

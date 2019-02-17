@@ -1,9 +1,7 @@
 ---
 layout: post
-title: ""
 date: 2018-02-02
 tags: Efficiency Distributed-Organization XDSD
-published: false
 ---
 
 ## Are you a coder or a developer?

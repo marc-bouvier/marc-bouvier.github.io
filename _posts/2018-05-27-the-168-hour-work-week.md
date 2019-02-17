@@ -1,5 +1,5 @@
 ---
-tags: Happiness NewCrafts Video
+tags: Happiness NewCrafts Video Freelance Career-Development
 ---
 
 <iframe src="https://player.vimeo.com/video/221100900" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

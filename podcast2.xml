@@ -35,16 +35,15 @@
 		<itunes:subtitle><![CDATA[En Francais dans le Code]]></itunes:subtitle>
 		<itunes:type>episodic</itunes:type>
 {% for post in site.posts %}
-    {% for tag in post.tags %}
-	    {% if tag == "Podcast" %}
-				<item>
+		{% if post.podcast %}
+		<item>
 			<title>{{ post.title | xml_escape }}</title>
 			<itunes:title>{{ post.title | xml_escape }}</itunes:title>
 			<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
 			<guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}{{ post.url }}</guid>
 			<link><![CDATA[{{ site.url }}assets/{{ post.file }}]]></link>
 			<itunes:image href="https://avatars1.githubusercontent.com/u/15436007?s=460&v=4" />
-			<description><![CDATA[{{ post.summary | xml_escape }} {{ post.description | xml_escape }} Show Notes Available at {{ site.url }}{{ site.baseurl }}{{ post.url }}.]]></description>
+			<description><![CDATA[{{ post.content }}]]></description>
 			<content:encoded><![CDATA[{{ post.content }}]]></content:encoded>
 			<enclosure url="{{ site.url }}assets/{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
 			<itunes:duration>{{post.duration}}</itunes:duration>
@@ -54,9 +53,8 @@
 			<itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:block>{{ post.block }}</itunes:block>
-					</item>
-	    {% endif %}
-    {% endfor %}	    
+		</item>
+		{% endif %} 
 {% endfor %}
 	</channel>
 </rss>

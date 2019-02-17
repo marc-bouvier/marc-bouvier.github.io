@@ -1,6 +1,23 @@
 ---
-
+tags: French How-To Jenkins Continuous-Integration Version-Control Bitbucket
 ---
+Mise en place de pipelines multibranches avec Jenkins et Bitbucket.
+
+La série d'articles
+* [Installation de Jenkins avec Docker](/2018/06/06/install-jenkins-with-docker/)
+* [Installation de Bitbucket avec Docker](/2018/06/06/pipeline-as-code-1-bitbucket/)
+* Pipeline As Code avec Jenkins et Bitbucket
+
+Slides : [Pipelines d'intégration continue avec Jenkis Bitbucket et Sonar](https://slides.com/marcbouvier/jenkins-2-bitbucket#/)
+
+## Intérêt des pipelines
+
+* Enchainer des builds
+* paralléliser des builds (compilation, tests, test intégration, e2e)
+* Affichage sympa BlueOcean
+* Configuration as code (Jenkinsfile) -> création automatique d'un job lors de la création d'une branche
+
+## Mise en place
 
 Dans Bitbucket créer un projet et un dépôt.
 
@@ -51,13 +68,23 @@ TODO : screens
 
 ifconfig pour connaître l'adresse IP de docker (ici : 172.17.0.1)
 ```
-$> ifconfig
-docker0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
-        inet 172.17.0.1  netmask 255.255.0.0  broadcast 172.17.255.255
-        inet6 fe80::42:9dff:fe59:c59  prefixlen 64  scopeid 0x20<link>
-        ether 02:42:9d:59:0c:59  txqueuelen 0  (Ethernet)
-        RX packets 39977  bytes 14070252 (14.0 MB)
-        RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 64327  bytes 90338990 (90.3 MB)
-        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+    $> ifconfig
+    docker0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+            inet 172.17.0.1  netmask 255.255.0.0  broadcast 172.17.255.255
+            inet6 fe80::42:9dff:fe59:c59  prefixlen 64  scopeid 0x20<link>
+            ether 02:42:9d:59:0c:59  txqueuelen 0  (Ethernet)
+            RX packets 39977  bytes 14070252 (14.0 MB)
+            RX errors 0  dropped 0  overruns 0  frame 0
+            TX packets 64327  bytes 90338990 (90.3 MB)
+            TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 ```
+
+## Ressources
+
+* https://jenkins.io/doc/book/pipeline/getting-started/#defining-a-pipeline-in-scm
+* https://jenkins.io/doc/book/pipeline/jenkinsfile/
+* https://github.com/jenkinsci/docker/blob/master/README.md
+* [Blue Ocean](https://jenkins.io/projects/blueocean/) (démo pipeline visuel)
+* https://plugins.jenkins.io/bitbucket
+* https://bjurr.com//building-atlassian-stash-pull-requests-in-jenkins/
+* https://bjurr.com/continuous-integration-with-bitbucket-server-and-jenkins/
