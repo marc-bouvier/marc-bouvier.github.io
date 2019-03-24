@@ -2,7 +2,7 @@
 layout: post
 title: "Building a blog with Jekyll and GitHub Pages"
 date: 2018-01-29
-tags: ["Jekyll", "How-To", "Blog", "Markdown", "Github-Pages"]
+tags: ["Jekyll", "How-To", "Blog", "Markdown", "Github-Pages","test"]
 ---
 
 Some resources to help building a blog like this one with Jekyll and GitHub pages.
