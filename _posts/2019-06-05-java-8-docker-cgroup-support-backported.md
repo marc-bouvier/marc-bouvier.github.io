@@ -1,5 +1,5 @@
 ---
-tags: ["Java", "Docker"]
+tags: ["Java", "Docker", "DevOps"]
 ---
 TLDR; `-XX:+UnlockExperimentalVMOptions -XX:+UseCGroupMemoryLimitForHeap`
 
