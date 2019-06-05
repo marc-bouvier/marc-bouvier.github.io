@@ -1,15 +1,12 @@
 ---
 tags: ["Java", "Docker"]
 ---
+TLDR; `-XX:+UnlockExperimentalVMOptions -XX:+UseCGroupMemoryLimitForHeap`
 
 Introduced in Java 10, cgroup support has been backported in java 8 (8u212). 
 See also [this blog post](https://blog.softwaremill.com/docker-support-in-new-java-8-finally-fd595df0ca54).
 
-TLDR;
 
-```
--XX:+UnlockExperimentalVMOptions -XX:+UseCGroupMemoryLimitForHeap
-```
 
 Without this option, a jvm running in docker does not know about the memory allocated for the docker container. It knows the memory of the host instead (TODO : to verify exactly)
 ands allocates a fraction of it by default. 
