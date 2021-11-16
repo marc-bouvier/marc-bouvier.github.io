@@ -1,53 +1,76 @@
----
-layout: default
----
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-  {% else %}
-    <span class="previous">Previous</span>
-  {% endif %}
-  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-  {% else %}
-    <span class="next ">Next</span>
-  {% endif %}
-</div>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta lang="FR">
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Marc Bouvier</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel="me" href="https://twitter.com/marcbouvier_">
+    <link rel="me" href="https://github.com/marc-bouvier">
+    <link rel="me" href="https://framagit.org/marc-bouvier">
+    <link rel="me" href="https://www.linkedin.com/in/profileofmarcbouvier/">
+    <link rel="me" href="mailto:m.bouvier.dev@gmail.com">
+    <link rel="me" href="https://stackoverflow.com/users/444769/marc-bouvier">
+    <link type="application/json" rel="me" lang="FR" href="https://gist.githubusercontent.com/marc-bouvier/d9a1f4a05269dea035e79a27ff7a0ed1/raw/c618a1a729f5f6b598db1126a5e56ee8e3f1a7bb/resume.json" >
+    <style>
+        /* Inspired by https://www.swyx.io/css-100-bytes/ */
+        html {
+            max-width: 70ch;
+            padding: 3em 1em;
+            margin: auto;
+            line-height: 1.75;
+            font-size: 1.25em;
+        }
+        body {
+        color: #333;
+        background: #EEE;
+        font: 100% system-ui;
+        }
 
-<!-- This loops through the paginated posts -->
-<div class="posts">
-{% for post in paginator.posts %}
-  <article class="post">
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-      <div class="tags">[
-        {% for tag in post.tags %}
-          {% capture tag_name %}{{ tag }}{% endcapture %}
-          <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
-        {% endfor %}
-      ]</div>
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+        h1,h2,h3,h4,h5,h6 {
+            margin: 3em 0 1em;
+        }
+
+        p,ul,ol {
+            margin-bottom: 2em;
+            font-family: sans-serif;
+        }
+        /** Auto Dark mode depending on OS setting **/
+        @media (prefers-color-scheme: dark) {
+            body {
+                color: #eee;
+                background: #333;
+            }
+            a {
+                color: #7a9bff;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Marc Bouvier</h1>
+    <article>
+        <p>Bonjour!</p>
     </article>
-{% endfor %}
-</div>
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-  {% else %}
-    <span class="previous">Previous</span>
-  {% endif %}
-  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-  {% else %}
-    <span class="next ">Next</span>
-  {% endif %}
-</div>
-<div>
-  <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Licence Creative Commons Attribution 4.0 International</a>.
-</div>
+    <footer>
+        <nav>
+            <ul>
+                <li><a href="https://baldir.fr/">🏡 baldir.fr</a></li>
+                <li><a href="https://www.linkedin.com/in/profileofmarcbouvier/">🔗 LinkedIn</a></li>
+                <li><a type="application/json" lang="FR" href="https://gist.githubusercontent.com/marc-bouvier/d9a1f4a05269dea035e79a27ff7a0ed1/raw/c618a1a729f5f6b598db1126a5e56ee8e3f1a7bb/resume.json" >📄 Json resume (FR)</a></li>
+                <li><a href="mailto:m.bouvier.dev@gmail.com">📧 e-mail</a></li>
+                <li><a href="https://twitter.com/marcbouvier_">🐦 @marcbouvier_</a></li>
+                <li><a href="https://stackoverflow.com/users/444769/marc-bouvier">🙋‍♂️ StackOverflow</a></li>
+                <li>Git
+                    <ul>
+                        <li><a href="https://github.com/marc-bouvier">👨‍💻 Github</a></li>
+                        <li><a href="https://framagit.org/marc-bouvier">👨‍💻 Framagit</a></li>
+                        <li><a href="https://gitlab.com/marc-bouvier">👨‍💻 Gitlab</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
+    </footer>
+</body>
+</html>
