@@ -42,6 +42,15 @@
             margin-bottom: 2em;
             font-family: sans-serif;
         }
+        a{
+            text-decoration-line: none;
+        }
+        a:hover{
+            text-decoration-line: underline;
+        }
+        a:visited{
+            color: rgb(107, 43, 226);
+        }
         /** Auto Dark mode depending on OS setting **/
         @media (prefers-color-scheme: dark) {
             body {
@@ -51,6 +60,9 @@
             a {
                 color: #7a9bff;
             }
+            a:visited{
+            color: rgb(140, 99, 218);
+        }
         }
     </style>
 </head>
